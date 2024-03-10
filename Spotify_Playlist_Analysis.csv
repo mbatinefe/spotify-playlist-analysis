@@ -1,0 +1,608 @@
+Track Name,Album Name,Artist Name(s),Release Date,Duration (ms),Popularity,Genres,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo
+Crying Lightning,Humbug,Arctic Monkeys,2009-08-20,224826,67,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.498,0.885,4,-4.423,0,0.0461,0.0148,0.00041,0.239,0.67,106.719
+Ode To The Mets,The New Abnormal,The Strokes,2020-04-10,351786,64,"alternative rock,garage rock,modern rock,permanent wave,rock",0.426,0.617,1,-5.423,0,0.0289,0.341,0.181,0.101,0.201,92.002
+Buzzcut Season,Pure Heroine,Lorde,2013-09-27,246755,68,"art pop,metropopolis,nz pop,pop",0.733,0.62,1,-10.525,1,0.075,0.606,0.305,0.117,0.247,111.039
+I Know The End,Punisher,Phoebe Bridgers,2020-06-18,344692,0,"indie pop,la indie",0.328,0.32,1,-10.282,1,0.035,0.324,0.019,0.234,0.259,111.453
+Simulation Swarm,Dragon New Warm Mountain I Believe In You,Big Thief,2022-02-11,252733,62,"art pop,brooklyn indie,indie pop,indie rock,small room",0.703,0.578,1,-9.103,1,0.0728,0.446,0.0024,0.102,0.67,105.204
+Body Paint,The Car,Arctic Monkeys,2022-10-21,290584,64,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.556,0.315,7,-11.651,0,0.0625,0.568,0.0,0.0774,0.256,143.327
+Chaise Longue,Wet Leg,Wet Leg,2022-04-08,196905,65,"crank wave,indie rock",0.684,0.749,7,-6.565,1,0.06,0.00135,0.111,0.141,0.935,160.021
+Creep,Pablo Honey,Radiohead,1993-02-22,238640,3,"alternative rock,art rock,melancholia,oxford indie,permanent wave,rock",0.515,0.43,7,-9.935,1,0.0369,0.0102,0.000141,0.129,0.104,91.841
+Ain't It Easy,God Save The Animals,Alex G,2022-09-23,174972,49,"indie pop,philly indie",0.657,0.453,11,-9.844,1,0.031,0.422,0.402,0.0775,0.201,92.954
+The Night We Met,Strange Trails,Lord Huron,2015-04-06,208211,80,stomp and holler,0.544,0.369,2,-9.514,1,0.038,0.969,0.279,0.639,0.102,87.01
+Keep On Calling,Inside Out,Nilüfer Yanya,2021-09-29,230310,47,"art pop,indie rock,uk alternative pop",0.761,0.551,6,-7.211,0,0.0332,0.73,0.000614,0.0844,0.101,123.077
+Jennifer,Raw Data Feel,Everything Everything,2022-05-20,257853,42,"alternative dance,experimental pop,indie rock,modern alternative rock,modern rock,new rave",0.568,0.791,9,-6.998,1,0.0602,0.109,0.000129,0.32,0.72,158.009
+From The Ritz To The Rubble,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,2006-01-29,193426,65,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.216,0.882,11,-5.176,0,0.0439,0.00147,0.0,0.308,0.656,189.286
+Weight of Love,Turn Blue,The Black Keys,2014-05-09,410186,56,"alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock",0.282,0.547,2,-8.621,1,0.0322,0.03,0.888,0.104,0.133,151.468
+400 Lux,Pure Heroine,Lorde,2013-09-27,234286,58,"art pop,metropopolis,nz pop,pop",0.512,0.474,2,-8.36,1,0.0371,0.0787,0.00345,0.134,0.194,183.991
+Pain - Remastered,Blackfield (Remastered),Blackfield,2004-01-01,228178,43,"neo-progressive,progressive metal,progressive rock,symphonic rock",0.246,0.529,4,-8.927,0,0.0274,0.000962,0.000815,0.122,0.295,79.436
+suburban wonderland,suburban wonderland,BETWEEN FRIENDS,2017-07-14,266157,1,"indie pop,la pop,modern rock",0.617,0.685,2,-7.687,1,0.063,0.0184,0.0,0.0848,0.508,87.969
+Why'd You Only Call Me When You're High?,AM,Arctic Monkeys,2013-09-09,161123,84,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004
+Sober,Melodrama,Lorde,2017-06-16,197235,57,"art pop,metropopolis,nz pop,pop",0.796,0.467,6,-10.369,1,0.181,0.173,0.00411,0.126,0.516,107.901
+.,if i could make it go quiet,girl in red,2021-04-30,166240,11,"bedroom pop,indie pop,norwegian indie,pop",0.451,0.907,10,-7.362,1,0.291,0.0838,0.832,0.137,0.317,151.988
+Fuzzybrain,Fuzzybrain,Dayglow,2019-11-14,219428,55,"austindie,indie rock,modern rock",0.488,0.51,7,-8.367,1,0.026,0.0233,0.15,0.143,0.367,104.959
+What A Day - Edit,Collections From The Whiteout,Ben Howard,2021-03-26,257773,48,"british singer-songwriter,folk-pop,indie folk,neo mellow,stomp and holler",0.663,0.434,7,-9.03,1,0.0278,0.539,0.0732,0.0906,0.593,136.018
+Waiting,Waiting,The Devlins,1997-09-03,288493,22,irish rock,0.611,0.493,4,-8.675,0,0.0298,0.41,0.00263,0.129,0.126,77.021
+Keep On,Woodstock,Portugal. The Man,2017-06-16,203146,44,"indie rock,modern alternative rock,modern rock,rock",0.667,0.681,0,-7.24,1,0.0333,0.251,0.0462,0.0608,0.783,139.993
+Old Friends,Different Creatures,Circa Waves,2017-03-10,202800,38,"britpop revival,english indie rock,indie rock,indie surf,liverpool indie,modern alternative rock,modern rock,rock",0.676,0.421,9,-11.139,1,0.0306,0.0844,0.0359,0.308,0.314,146.103
+Fire In The Driveway,"Sometimes, Forever",Soccer Mommy,2022-06-24,217200,32,"art pop,bubblegrunge,indie pop,indie rock,small room",0.375,0.266,2,-10.027,1,0.0309,0.694,0.00528,0.116,0.293,179.938
+Dreams - 2004 Remaster,Rumours (Super Deluxe),Fleetwood Mac,1977-02-04,257800,80,"album rock,classic rock,rock,soft rock,yacht rock",0.828,0.492,0,-9.744,1,0.0276,0.0644,0.00428,0.128,0.789,120.151
+Giant Peach,My Love Is Cool,Wolf Alice,2015-06-22,275493,39,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.503,0.812,6,-7.829,0,0.0754,4.75e-05,0.0639,0.691,0.136,140.902
+No Reptiles,Get To Heaven (Deluxe),Everything Everything,2015-06-22,282853,46,"alternative dance,experimental pop,indie rock,modern alternative rock,modern rock,new rave",0.631,0.515,5,-9.038,1,0.0245,0.0339,0.00124,0.116,0.381,154.935
+In Our Prime,Turn Blue,The Black Keys,2014-05-09,278106,41,"alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock",0.279,0.626,11,-7.095,1,0.0342,0.077,0.00394,0.118,0.342,77.513
+Rid Of Me,PAINLESS (Deluxe Edition),Nilüfer Yanya,2022-12-14,217712,27,"art pop,indie rock,uk alternative pop",0.833,0.322,9,-8.358,0,0.0385,0.38,0.00384,0.0768,0.44,123.97
+A Day In The Life - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,337413,60,"beatlesque,british invasion,classic rock,merseybeat,psychedelic rock,rock",0.364,0.457,4,-14.162,0,0.0675,0.29,0.000106,0.922,0.175,163.219
+Bodys,Twin Fantasy,Car Seat Headrest,2018-02-16,406934,55,"alternative rock,indie pop,indie rock,rock",0.518,0.843,2,-7.361,1,0.0544,0.00136,0.0119,0.132,0.249,143.903
+Supermassive Black Hole,Black Holes and Revelations,Muse,2006-06-19,212439,74,"modern rock,permanent wave,rock",0.668,0.921,7,-3.727,1,0.0439,0.0492,0.00517,0.0877,0.782,120.0
+Little Dark Age,Little Dark Age,MGMT,2018-02-09,299960,78,"alternative dance,indietronica,modern rock,rock",0.705,0.712,6,-6.156,1,0.0385,0.0102,0.000855,0.1,0.62,97.512
+Mr. Blue Sky,Out of the Blue,Electric Light Orchestra,1977,303373,77,"album rock,art rock,beatlesque,classic rock,glam rock,mellow gold,rock,soft rock,symphonic rock",0.388,0.338,10,-10.054,1,0.0329,0.652,3.73e-06,0.248,0.478,177.765
+Don't Look Back in Anger - Remastered,(What's The Story) Morning Glory? [Remastered],Oasis,1995-10-02,289560,70,"beatlesque,britpop,madchester,permanent wave,pop rock,rock",0.327,0.938,0,-3.237,1,0.0645,0.0708,3.79e-06,0.148,0.326,162.937
+Mission,God Save The Animals,Alex G,2022-09-23,185176,48,"indie pop,philly indie",0.771,0.354,10,-8.508,1,0.0302,0.2,0.000827,0.11,0.273,113.956
+Concrete Over Water,I Love You Jennifer B,Jockstrap,2022-09-09,372800,46,"art pop,chamber psych,crank wave,escape room,experimental pop,indie rock,london indie",0.318,0.375,1,-7.357,0,0.036,0.748,0.00132,0.42,0.0455,140.211
+Dance Little Liar,Humbug,Arctic Monkeys,2009-08-20,283493,56,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.538,0.607,1,-9.133,0,0.0352,0.0586,0.769,0.0975,0.543,100.158
+Locust Laced,Locust Laced,Sleigh Bells,2021-07-28,150946,0,"alternative dance,art pop,brooklyn indie,chillwave,electropop,escape room,experimental pop,indie rock,indie surf,indietronica,modern rock,new rave,noise pop",0.477,0.757,1,-5.859,0,0.0751,0.0021,3.15e-06,0.427,0.665,174.063
+still feel.,still feel.,half•alive,2018-08-03,247437,46,"alt z,indie pop,modern alternative rock,modern rock",0.779,0.525,10,-5.756,0,0.0487,0.148,0.0,0.0675,0.698,120.018
+Hard To Explain,Is This It,The Strokes,2001-07-30,224426,60,"alternative rock,garage rock,modern rock,permanent wave,rock",0.406,0.682,7,-6.281,1,0.0584,0.000413,0.849,0.0999,0.623,82.495
+Asleep - 2011 Remaster,Louder Than Bombs,The Smiths,1987,253560,60,"madchester,new wave,permanent wave,rock,uk post-punk",0.512,0.255,0,-15.867,1,0.0291,0.88,0.532,0.146,0.215,115.144
+Starman - 2012 Remaster,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),David Bowie,1972-06-06,254293,74,"art rock,classic rock,glam rock,permanent wave,rock",0.486,0.449,5,-10.298,1,0.0267,0.166,2.23e-06,0.54,0.549,100.456
+Social Cues,Social Cues,Cage The Elephant,2019-04-19,219053,63,"modern rock,punk blues,rock",0.668,0.913,9,-3.097,1,0.0348,0.0119,6.7e-06,0.111,0.933,132.039
+Spiderhead,Melophobia,Cage The Elephant,2013-10-08,222813,0,"modern rock,punk blues,rock",0.543,0.946,2,-0.734,1,0.0454,0.00614,1.49e-05,0.106,0.547,117.962
+Ur Mum,Ur Mum,Wet Leg,2022-04-04,201253,42,"crank wave,indie rock",0.685,0.72,4,-5.553,1,0.028,0.00702,0.275,0.425,0.554,133.016
+Not The Same Anymore,The New Abnormal,The Strokes,2020-04-10,337333,56,"alternative rock,garage rock,modern rock,permanent wave,rock",0.353,0.613,9,-5.9,1,0.031,0.384,0.0123,0.103,0.282,177.375
+Psycho Killer - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,261413,74,"art punk,art rock,dance rock,funk rock,new wave,permanent wave,post-punk,rock,zolo",0.721,0.521,2,-8.123,1,0.0613,0.0708,0.00545,0.127,0.942,123.118
+Don’t Delete The Kisses,Visions Of A Life,Wolf Alice,2017-09-29,275226,61,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.604,0.789,5,-6.259,1,0.0273,0.0011,0.828,0.368,0.348,122.032
+7,The Ride,Catfish and the Bottlemen,2016-05-27,256306,62,"modern alternative rock,modern rock,rock,stomp pop,welsh rock",0.531,0.711,10,-4.933,1,0.0398,0.000204,0.00291,0.108,0.279,155.068
+Selfless,The New Abnormal,The Strokes,2020-04-10,222093,68,"alternative rock,garage rock,modern rock,permanent wave,rock",0.538,0.679,4,-4.297,1,0.0333,0.191,0.00175,0.0889,0.0888,121.99
+Deadlines (Hostile),Making a Door Less Open,Car Seat Headrest,2020-05-01,261130,47,"alternative rock,indie pop,indie rock,rock",0.665,0.545,9,-7.208,0,0.0332,0.0136,0.000161,0.226,0.584,114.995
+Oh My My,The Bright Side,Summer Kennedy,2018-06-21,221802,1,bossbeat,0.553,0.945,11,-6.031,0,0.271,0.00157,0.00135,0.248,0.409,195.812
+Held Down,Song For Our Daughter,Laura Marling,2020-04-10,247920,45,"art pop,british folk,british singer-songwriter,chamber pop,indie folk,indie pop,singer-songwriter,stomp and holler",0.476,0.493,7,-7.87,1,0.0346,0.178,2.2e-06,0.353,0.412,79.712
+If I Were You,If I Were You,Claud,2019-04-11,171000,0,"bedroom pop,indie pop",0.728,0.451,1,-8.962,1,0.053,0.223,0.00383,0.282,0.421,152.994
+405 - Metronomy x Biig Piig,405 - Metronomy x Biig Piig,"Metronomy,Biig Piig",2021-09-14,265505,56,"alternative dance,electronica,french indie pop,indie rock,indietronica,modern rock,new rave,socal pop punk,alternative r&b,indie r&b,indie soul,modern alternative pop",0.725,0.455,0,-10.154,1,0.0313,0.227,0.0615,0.128,0.437,129.987
+Don't Start Now,Future Nostalgia,Dua Lipa,2020-03-27,183290,79,"dance pop,pop,uk pop",0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,0.679,123.95
+The Last Man on Earth,Blue Weekend,Wolf Alice,2021-06-04,261217,50,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.253,0.293,7,-8.544,1,0.0338,0.308,0.124,0.115,0.117,146.237
+In Your Head,Miss Universe,Nilüfer Yanya,2019-03-22,207632,30,"art pop,indie rock,uk alternative pop",0.571,0.517,9,-6.757,1,0.033,0.00154,0.0,0.112,0.465,132.996
+I Wanna Be Yours,AM,Arctic Monkeys,2013-09-09,183956,90,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528
+November Rain,Use Your Illusion I,Guns N' Roses,1991-09-17,536066,77,"glam metal,hard rock,rock",0.294,0.641,11,-9.316,1,0.0291,0.0163,0.22,0.112,0.226,79.759
+When the Levee Breaks - Remaster,Led Zeppelin IV (Deluxe Edition),Led Zeppelin,1971-11-08,428851,61,"album rock,classic rock,hard rock,rock",0.271,0.766,5,-8.03,1,0.0329,0.00217,0.52,0.0707,0.803,142.914
+Take Me Out,Franz Ferdinand,Franz Ferdinand,2004-02-16,237026,76,"alternative rock,dance rock,indie rock,modern rock,rock,scottish rock",0.277,0.663,4,-8.821,0,0.0377,0.000409,0.00051,0.136,0.527,104.561
+I Will Wait,Babel,Mumford & Sons,2012-09-21,276720,0,"modern folk rock,stomp and holler,uk americana",0.486,0.769,1,-5.14,1,0.0341,0.0119,0.00832,0.197,0.393,131.286
+The Man,Wonderful Wonderful,The Killers,2017-09-22,250093,61,"alternative rock,dance rock,modern rock,permanent wave,rock",0.606,0.942,6,-2.598,0,0.115,0.0737,2.23e-06,0.0709,0.519,106.02
+"It's Not Just Me, It's Everybody","And In The Darkness, Hearts Aglow",Weyes Blood,2022-11-18,376520,57,"art pop,experimental folk,indie pop",0.426,0.342,0,-11.531,1,0.0265,0.858,0.0172,0.258,0.155,74.853
+White Winter Hymnal,Fleet Foxes,Fleet Foxes,2008-06-03,147026,66,"chamber pop,folk,indie folk,indie pop,indie rock,seattle indie,stomp and holler",0.628,0.5,6,-9.66,0,0.0268,0.44,0.0,0.244,0.68,124.932
+Song To Sing When I'm Lonely,Shadows Collide With People,John Frusciante,2004-02-24,195213,50,"acoustic rock,alternative rock,rock",0.629,0.673,6,-4.379,1,0.0262,0.294,0.0109,0.139,0.419,114.243
+On the Floor,Set My Heart On Fire Immediately,Perfume Genius,2020-05-15,303600,45,"art pop,chamber pop,chamber psych,chillwave,electropop,experimental pop,indie pop,indie rock,seattle indie",0.412,0.727,9,-6.001,1,0.0369,0.318,0.00171,0.257,0.583,117.551
+In Your Head,Miss Universe,Nilüfer Yanya,2019-03-22,207632,29,"art pop,indie rock,uk alternative pop",0.571,0.516,9,-6.753,1,0.0328,0.00156,0.0,0.112,0.464,132.989
+End Of Me,Common Courtesy (Deluxe),A Day To Remember,2013-01-01,237975,0,"metalcore,pop punk,screamo",0.446,0.82,6,-5.198,0,0.0483,0.000687,0.00332,0.111,0.353,125.072
+Evil,Antics,Interpol,2004-09-27,215826,0,"alternative rock,indie rock,modern rock,rock",0.49,0.76,5,-3.506,1,0.0376,0.00147,0.498,0.0728,0.659,129.0
+For 12,Tamer Animals,Other Lives,2011-08-15,251173,41,"indie rock,ok indie,stomp and holler",0.334,0.483,6,-11.173,0,0.0331,0.856,0.0585,0.124,0.129,135.775
+Birdhouse in Your Soul,Flood,They Might Be Giants,1990-01-02,198920,55,"anti-folk,comic,geek rock,permanent wave,zolo",0.61,0.819,8,-8.323,1,0.0666,0.00381,7.92e-06,0.285,0.454,100.057
+Snap Out Of It,AM,Arctic Monkeys,2013-09-09,193030,77,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.728,0.638,5,-6.455,0,0.0336,0.249,0.0,0.116,0.872,130.014
+Black Widow Spider,Sympathy for Life,Parquet Courts,2021-10-22,170266,32,"alternative rock,brooklyn indie,crank wave,denton tx indie,indie rock,modern rock,neo-psychedelic,noise pop",0.56,0.924,4,-4.986,1,0.0587,0.141,0.857,0.339,0.69,138.076
+Move Along,Move Along,The All-American Rejects,2005-01-01,238880,58,"modern rock,neo mellow,pop punk,pop rock",0.526,0.92,3,-3.866,1,0.0472,0.000124,0.0,0.371,0.615,109.86
+We Cannot Resist,Animal,"LUMP,Laura Marling,Mike Lindsay",2021-07-30,285760,25,"folktronica,art pop,british folk,british singer-songwriter,chamber pop,indie folk,indie pop,singer-songwriter,stomp and holler",0.695,0.453,1,-10.626,1,0.0923,0.231,0.00122,0.113,0.256,145.999
+New Slang,"Oh, Inverted World",The Shins,2001-06-19,231173,52,"albuquerque indie,alternative rock,indie pop,indie rock,modern rock,portland indie,stomp and holler",0.669,0.388,0,-11.547,1,0.0306,0.605,0.144,0.0905,0.645,130.016
+Liability,Melodrama,Lorde,2017-06-16,171727,71,"art pop,metropopolis,nz pop,pop",0.587,0.229,10,-11.254,0,0.128,0.92,0.0,0.1,0.379,75.67
+hometown,hometown,cleopatrick,2017-10-25,256071,0,"modern alternative rock,modern rock,rock",0.315,0.826,7,-4.315,0,0.0644,0.000621,0.000669,0.0703,0.359,139.163
+Between The Bars,Either/Or,Elliott Smith,1997-02-25,141280,63,"alternative rock,dream pop,indie rock,melancholia,pop rock,rock,singer-songwriter",0.522,0.074,7,-23.625,0,0.0598,0.929,0.765,0.108,0.342,135.298
+Bros,My Love Is Cool,Wolf Alice,2015-06-22,224720,56,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.583,0.921,4,-8.383,1,0.0697,0.00377,0.462,0.226,0.222,125.98
+Feel It Still,Woodstock,Portugal. The Man,2017-06-16,163253,74,"indie rock,modern alternative rock,modern rock,rock",0.801,0.795,1,-5.115,0,0.0504,0.0417,0.000113,0.0717,0.754,79.028
+Serotonin,Serotonin,girl in red,2021-03-03,182426,10,"bedroom pop,indie pop,norwegian indie,pop",0.58,0.788,2,-4.714,1,0.259,0.0123,1.84e-05,0.368,0.72,148.992
+There Is a Light That Never Goes Out - 2011 Remaster,The Queen Is Dead,The Smiths,1986-06-16,244586,76,"madchester,new wave,permanent wave,rock,uk post-punk",0.523,0.769,4,-5.855,1,0.0269,0.04,0.0,0.136,0.876,136.162
+Calm Like You,The Age Of The Understatement,The Last Shadow Puppets,2008-01-01,146266,30,"baroque pop,indie rock,modern rock,rock,sheffield indie",0.346,0.753,6,-7.269,0,0.0584,0.0106,8.81e-05,0.117,0.52,128.187
+Lucifer On The Sofa,Lucifer On The Sofa,Spoon,2022-02-11,309283,37,"alternative dance,alternative rock,austindie,indie rock,modern rock,pop rock,rock",0.743,0.476,11,-10.562,0,0.0449,0.773,0.425,0.0902,0.384,121.561
+Heart-Shaped Box,In Utero - 20th Anniversary Remaster,Nirvana,1993-09-21,281160,55,"alternative rock,grunge,permanent wave,rock",0.256,0.641,1,-10.283,1,0.0552,0.199,0.0329,0.0853,0.382,203.006
+Don't Panic,Parachutes,Coldplay,2000-07-10,136866,68,"permanent wave,pop",0.602,0.612,0,-8.409,1,0.0335,0.206,0.00607,0.107,0.453,122.062
+The Beach,Blue Weekend,Wolf Alice,2021-06-04,155000,38,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.704,0.332,8,-9.185,1,0.0348,0.257,0.493,0.141,0.274,107.982
+Nara,This Is All Yours,alt-J,2014-09-22,296057,0,"indie rock,modern rock",0.514,0.52,4,-7.8,1,0.0403,0.451,0.641,0.12,0.0824,146.874
+Starstruck - Single Version,Starstruck,Sorry,2018-11-05,204080,44,"art pop,chamber psych,crank wave,english indie rock,indie rock,uk post-punk revival",0.608,0.759,11,-7.246,0,0.034,0.0569,0.302,0.169,0.861,124.504
+All About You (feat. Foster The People) - Sunset Version,All About You (feat. Foster The People) [Sunset Version],"The Knocks,Foster The People",2020-11-27,206994,25,"alternative dance,edm,indie poptimism,indietronica,nu disco,pop,tropical house,modern rock,rock",0.379,0.663,8,-6.94,1,0.0289,0.564,0.0565,0.102,0.338,93.736
+headache,"take it, leave it",Jackie Hayes,2020-07-15,127562,0,modern indie pop,0.741,0.81,6,-6.42,0,0.034,0.119,6.18e-05,0.331,0.965,124.109
+Dosed,By the Way (Deluxe Edition),Red Hot Chili Peppers,2002-07-09,311866,61,"alternative rock,funk metal,funk rock,permanent wave",0.571,0.8,7,-4.131,1,0.0292,0.0101,7.29e-05,0.111,0.335,104.377
+End of Beginning,DECIDE,Djo,2022-09-16,159245,12,"indie pop,modern rock,psychedelic pop",0.689,0.453,2,-7.64,1,0.0543,0.0313,0.00405,0.0698,0.915,159.987
+The Lightning II,WE,Arcade Fire,2022-05-06,154320,51,"baroque pop,canadian indie,indie rock,modern rock,new rave,permanent wave,quebec indie,rock",0.223,0.889,6,-6.207,0,0.0469,0.00317,0.00123,0.346,0.312,179.578
+Sultans Of Swing,Dire Straits,Dire Straits,1978-10-07,348400,78,"album rock,classic rock,mellow gold,rock,soft rock",0.733,0.794,5,-10.023,1,0.0307,0.0614,0.0367,0.33,0.931,148.174
+Haldern,Ants From Up There,"Black Country, New Road",2022-02-04,305213,49,"crank wave,indie rock,london indie,uk post-punk revival",0.368,0.318,4,-11.182,1,0.0358,0.627,0.188,0.0804,0.122,81.116
+Cathy Come Home,The Loved Ones,Flyte,2017-08-25,224959,38,english indie rock,0.416,0.495,0,-7.724,1,0.0296,0.331,0.00177,0.128,0.27,109.338
+The Meeting Place,The Age Of The Understatement,"The Last Shadow Puppets,Alex Turner,Miles Kane",2008-04-19,237960,49,"baroque pop,indie rock,modern rock,rock,sheffield indie,garage rock",0.262,0.624,9,-8.486,0,0.0388,0.0224,0.000403,0.235,0.303,81.555
+Brothers In Arms,Brothers In Arms,Dire Straits,1985-05-13,424000,1,"album rock,classic rock,mellow gold,rock,soft rock",0.413,0.296,8,-13.904,0,0.0277,0.531,0.801,0.183,0.144,79.273
+Can't Help Myself,The Archer,Alexandra Savior,2020-01-10,162944,61,modern dream pop,0.483,0.846,0,-6.235,1,0.0587,0.422,0.836,0.775,0.321,118.292
+The Jeweller's Hands,Humbug,Arctic Monkeys,2009-08-20,344053,49,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.51,0.8,0,-8.116,0,0.0488,0.137,0.0834,0.118,0.391,96.935
+Simple Pleasures,Shangri La,Jake Bugg,2013-01-01,301714,34,"modern rock,nottingham indie,rock",0.391,0.563,1,-3.872,0,0.0324,0.0717,0.0,0.112,0.222,157.444
+Demons,Night Visions (Deluxe),Imagine Dragons,2012-09-04,175200,0,"modern rock,rock",0.327,0.71,3,-2.928,1,0.0547,0.202,9e-05,0.28,0.416,179.561
+Hey,Extraordinary Renditions,Nilüfer Yanya,2016-05-27,162321,49,"art pop,indie rock,uk alternative pop",0.755,0.675,4,-8.723,0,0.028,0.186,0.406,0.33,0.488,105.066
+Africa,Toto IV,TOTO,1982-04-08,295893,81,"album rock,classic rock,mellow gold,rock,soft rock,yacht rock",0.671,0.373,9,-18.064,1,0.0323,0.257,8.01e-05,0.0481,0.732,92.718
+yellow is the color of her eyes,color theory,Soccer Mommy,2020-02-28,435080,51,"art pop,bubblegrunge,indie pop,indie rock,small room",0.371,0.51,11,-7.352,1,0.0276,0.754,0.125,0.139,0.192,161.006
+i'll die anyway.,i'll die anyway.,girl in red,2019-07-17,192612,15,"bedroom pop,indie pop,norwegian indie,pop",0.472,0.627,0,-6.895,1,0.0289,0.000427,0.574,0.0798,0.172,157.909
+Shotgun,"Sometimes, Forever",Soccer Mommy,2022-06-24,250053,49,"art pop,bubblegrunge,indie pop,indie rock,small room",0.635,0.849,5,-5.33,1,0.0346,0.000821,0.618,0.193,0.708,119.994
+Cul De Sac,Both Sides of the Ceiling,Duncan Fellows,2017-08-25,201067,35,austindie,0.351,0.6,2,-7.07,1,0.0285,0.0778,0.0522,0.111,0.292,113.691
+Francis Forever,Bury Me At Makeout Creek,Mitski,2014-11-11,149680,74,"brooklyn indie,indie pop",0.535,0.448,2,-9.167,1,0.0279,0.00262,1.94e-05,0.115,0.32,101.986
+Love's a Stranger,Warhaus,Warhaus,2017-10-13,206685,0,"belgian indie,belgian rock,dutch indie",0.561,0.586,9,-8.822,0,0.0383,0.194,0.00214,0.117,0.617,161.663
+Every Breath You Take,Synchronicity (Remastered 2003),The Police,1983-06-17,253920,83,"album rock,classic rock,mellow gold,permanent wave,rock",0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,0.74,117.401
+Multi-Love,Multi-Love,Unknown Mortal Orchestra,2015-05-26,250800,0,"chillwave,indie rock,kiwi rock,neo-psychedelic,portland hip hop,psychedelic pop",0.784,0.506,3,-5.243,0,0.0403,0.571,0.0,0.139,0.545,120.141
+The Modern Age - Rough Trade Version,The Singles - Volume 01,The Strokes,2023-02-24,192853,53,"alternative rock,garage rock,modern rock,permanent wave,rock",0.493,0.787,2,-7.712,1,0.0334,0.0224,0.00227,0.253,0.88,160.12
+Always Like This,I Had The Blues But I Shook Them Loose,Bombay Bicycle Club,2009-01-01,245640,60,"alternative dance,british indie rock,indie rock,indietronica,modern rock,new rave,rock,stomp and holler",0.659,0.591,1,-6.713,1,0.0313,0.441,0.000861,0.0862,0.707,121.14
+About You,Being Funny In A Foreign Language,The 1975,2022-10-14,326490,81,"modern alternative rock,modern rock,pop,rock",0.416,0.762,2,-7.385,1,0.0279,0.312,0.804,0.0559,0.461,95.967
+circle the drain,circle the drain,Soccer Mommy,2020-01-14,280213,0,"art pop,bubblegrunge,indie pop,indie rock,small room",0.482,0.79,9,-5.221,1,0.038,0.303,0.00028,0.1,0.47,169.064
+Perfect Places,Melodrama,Lorde,2017-11-10,221874,0,"art pop,metropopolis,nz pop,pop",0.622,0.58,1,-5.273,0,0.0504,0.00241,2.95e-05,0.112,0.512,104.41
+Figure It Out,Royal Blood,Royal Blood,2014-08-22,183602,64,"alternative rock,brighton indie,garage rock,modern alternative rock,modern blues rock,modern hard rock,modern rock,rock",0.658,0.814,0,-4.631,1,0.0558,0.229,0.00676,0.216,0.69,108.016
+IDK You Yet,IDK You Yet,Alexander 23,2020-04-09,184638,16,"alt z,pop",0.629,0.306,1,-11.735,1,0.0424,0.884,0.0776,0.124,0.191,76.994
+No. 1 Party Anthem,AM,Arctic Monkeys,2013-09-09,243131,68,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.505,0.698,0,-5.563,1,0.0297,0.33,0.0887,0.0966,0.599,115.013
+The Car,The Car,Arctic Monkeys,2022-10-21,198554,60,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.428,0.365,4,-11.889,0,0.0276,0.78,0.0033,0.113,0.236,94.033
+Helen of Troy - Bonus Track,Solar Power (Deluxe Edition),Lorde,2021-11-05,171594,48,"art pop,metropopolis,nz pop,pop",0.61,0.279,9,-12.62,1,0.136,0.911,6.38e-06,0.111,0.506,81.838
+wish you were gay,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,221543,72,"art pop,electropop,pop",0.853,0.351,7,-10.198,1,0.241,0.39,9.38e-06,0.752,0.282,118.028
+Sweat,Sweat,The All-American Rejects,2017-07-07,183956,45,"modern rock,neo mellow,pop punk,pop rock",0.647,0.512,5,-4.162,1,0.0714,0.0017,5.97e-05,0.0689,0.695,135.171
+All Apologies,In Utero - 20th Anniversary Remaster,Nirvana,1993-09-21,233173,69,"alternative rock,grunge,permanent wave,rock",0.446,0.632,1,-12.197,1,0.034,0.0793,0.000266,0.0881,0.359,113.176
+Let It Happen,Currents,Tame Impala,2015-07-17,467586,73,"australian psych,neo-psychedelic",0.602,0.881,1,-5.875,0,0.0443,0.00462,0.0266,0.111,0.577,125.012
+Sweetie Little Jean - Unpeeled,Unpeeled,Cage The Elephant,2017-07-28,206160,36,"modern rock,punk blues,rock",0.57,0.626,11,-3.356,0,0.0507,0.128,0.0,0.275,0.469,147.815
+Savage Good Boy,Savage Good Boy,Japanese Breakfast,2021-05-19,146184,0,"art pop,eugene indie,indie pop,philly indie",0.706,0.744,2,-6.308,1,0.0402,0.0491,0.000983,0.181,0.327,129.105
+1979 - Remastered 2012,Mellon Collie And The Infinite Sadness (Deluxe Edition),The Smashing Pumpkins,1995,266200,74,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.767,0.787,3,-9.897,1,0.0331,0.0163,0.583,0.0513,0.964,126.879
+Alligator,FEVER DREAM,Of Monsters and Men,2019-07-26,184026,53,"folk-pop,metropopolis,modern rock,pop rock,stomp and holler",0.581,0.934,8,-5.511,1,0.0547,0.000169,0.00297,0.0901,0.391,120.024
+My Honest Face,It Won't Always Be Like This,Inhaler,2021-07-09,272666,56,"dublin indie,modern alternative rock,modern rock,rock",0.419,0.969,5,-4.172,1,0.0979,0.000326,0.000674,0.0927,0.51,159.989
+Bags,Immunity,Clairo,2019-08-02,260519,71,"bedroom pop,indie pop,pop",0.742,0.546,1,-7.694,1,0.0315,0.172,0.38,0.115,0.868,104.996
+Change,Dragon New Warm Mountain I Believe In You,Big Thief,2022-02-11,295454,60,"art pop,brooklyn indie,indie pop,indie rock,small room",0.633,0.161,10,-12.892,1,0.0613,0.83,9.9e-05,0.263,0.546,132.57
+I Bet My Life,Smoke + Mirrors (Deluxe),Imagine Dragons,2015-05-18,192706,61,"modern rock,rock",0.545,0.659,1,-8.18,1,0.0394,0.367,0.00111,0.415,0.599,108.04
+Bros,My Love Is Cool,Wolf Alice,2015-06-23,224720,45,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.583,0.921,4,-8.383,1,0.0697,0.00377,0.462,0.226,0.222,125.98
+Jackie Down The Line,Skinty Fia,Fontaines D.C.,2022-04-22,241093,56,"crank wave,indie rock,irish indie rock,modern alternative rock,modern rock",0.547,0.88,7,-4.562,1,0.0442,0.0102,0.0,0.0884,0.44,134.981
+Switch,Switch,Biig Piig,2020-03-31,141502,52,"alternative r&b,indie r&b,indie soul,modern alternative pop",0.594,0.608,1,-8.93,1,0.041,0.0259,0.122,0.156,0.639,169.969
+Body And Mind,if i could make it go quiet,girl in red,2021-04-30,186672,5,"bedroom pop,indie pop,norwegian indie,pop",0.575,0.572,10,-5.928,0,0.0635,0.0718,0.0,0.0995,0.551,150.894
+bellyache,Bellyache,Billie Eilish,2017-02-24,179172,75,"art pop,electropop,pop",0.695,0.573,4,-8.597,0,0.106,0.46,0.0734,0.482,0.408,99.939
+You Only Live Once,First Impressions Of Earth,The Strokes,2006-01-03,189226,69,"alternative rock,garage rock,modern rock,permanent wave,rock",0.63,0.908,11,-2.42,1,0.0326,0.0238,0.592,0.116,0.968,120.522
+Headroom Piano,God Save The Animals,Alex G,2022-09-23,173231,40,"indie pop,philly indie",0.697,0.489,2,-7.58,1,0.0278,0.213,0.954,0.0469,0.812,98.998
+Matilda,An Awesome Wave,alt-J,2012-05-28,228706,0,"indie rock,modern rock",0.581,0.675,2,-9.208,1,0.0299,0.787,0.4,0.116,0.276,147.982
+Disco,Disco,Surf Curse,2019-06-12,152760,67,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.473,0.621,11,-8.698,0,0.0291,0.0253,0.000366,0.19,0.782,173.083
+Welcome To My Island,"Desire, I Want To Turn Into You",Caroline Polachek,2023-02-14,232625,64,"art pop,electropop,escape room,indie pop,indietronica,pop",0.692,0.627,9,-6.104,1,0.0564,0.0836,9.38e-05,0.198,0.36,118.0
+Teddy Picker,Favourite Worst Nightmare,Arctic Monkeys,2007-04-22,165000,68,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.637,0.963,9,-5.116,1,0.0882,0.000286,0.000889,0.0449,0.823,150.1
+More Of The Same,LONER,Caroline Rose,2018-02-23,248791,48,"art pop,indie pop,indie rock,indie surf,vermont indie",0.731,0.764,7,-4.5,1,0.028,0.0824,3.95e-06,0.0725,0.638,98.01
+Oysters In My Pocket,Oysters In My Pocket,Royel Otis,2022-03-10,162338,65,,0.598,0.924,6,-4.974,0,0.0623,0.0205,0.799,0.17,0.611,168.017
+Fuzzybrain,Fuzzybrain,Dayglow,2019-11-14,219428,8,"austindie,indie rock,modern rock",0.488,0.51,7,-8.367,1,0.026,0.0233,0.15,0.143,0.368,104.959
+Where Is My Mind? - Remastered,Surfer Rosa,Pixies,1988-03-21,234973,76,"alternative rock,boston rock,modern rock,permanent wave,rock",0.519,0.441,4,-14.178,1,0.0353,0.0204,0.000453,0.076,0.25,81.334
+Hourglass,Sand,Balthazar,2021-02-26,236160,40,"belgian indie,belgian rock,dutch indie,ghent indie",0.752,0.628,10,-9.074,0,0.0333,0.401,0.0696,0.0937,0.545,115.994
+Wait Forever,The Waves Within,Polaris Rose,2019-05-12,327000,0,,0.613,0.613,11,-8.518,0,0.0392,0.0111,0.00687,0.193,0.334,104.969
+The Florist,Inside Out,Nilüfer Yanya,2021-09-29,201833,37,"art pop,indie rock,uk alternative pop",0.796,0.31,9,-10.953,1,0.0606,0.348,0.0,0.112,0.263,120.104
+Not,Two Hands,Big Thief,2019-10-11,367093,48,"art pop,brooklyn indie,indie pop,indie rock,small room",0.423,0.789,11,-6.57,1,0.0554,0.0995,0.0028,0.16,0.544,140.417
+Love Again,Future Nostalgia,Dua Lipa,2020-03-27,258004,72,"dance pop,pop,uk pop",0.659,0.667,11,-4.668,0,0.0339,0.00173,2.85e-05,0.1,0.468,115.982
+stabilise,PAINLESS,Nilüfer Yanya,2022-03-04,212120,43,"art pop,indie rock,uk alternative pop",0.663,0.908,11,-8.391,0,0.0477,0.128,0.00851,0.203,0.76,94.011
+Champagne Supernova - Remastered,(What's The Story) Morning Glory? [Remastered],Oasis,1995-10-02,451320,61,"beatlesque,britpop,madchester,permanent wave,pop rock,rock",0.294,0.825,2,-3.771,1,0.0404,0.465,0.0841,0.354,0.122,150.338
+Don't Cry (Original),Use Your Illusion I,Guns N' Roses,1991-09-17,283733,76,"glam metal,hard rock,rock",0.456,0.59,11,-8.638,1,0.0327,0.00182,0.00379,0.104,0.243,124.635
+Amalfi,Reflection,Hooverphonic,2013-11-18,197453,39,"downtempo,electronica,trip hop",0.491,0.728,9,-5.503,1,0.0304,0.366,5.63e-05,0.0865,0.342,138.026
+My Babe,Lucifer On The Sofa,Spoon,2022-02-11,227267,45,"alternative dance,alternative rock,austindie,indie rock,modern rock,pop rock,rock",0.703,0.461,2,-6.283,1,0.0329,0.518,0.000129,0.105,0.436,95.045
+My Propeller,Humbug,Arctic Monkeys,2009-08-20,205746,58,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.415,0.657,9,-6.758,0,0.0295,0.052,0.0552,0.233,0.69,115.752
+Freak Like Me,Superstar,Caroline Rose,2020-03-06,222293,45,"art pop,indie pop,indie rock,indie surf,vermont indie",0.634,0.747,6,-7.378,0,0.0495,0.336,0.189,0.0996,0.529,91.981
+Under Cover of Darkness,Angles,The Strokes,2011-03-21,235546,65,"alternative rock,garage rock,modern rock,permanent wave,rock",0.35,0.775,11,-3.364,1,0.054,0.00433,0.283,0.0676,0.588,199.866
+Love Is to Die,Warpaint,Warpaint,2013,291758,0,"alternative dance,art pop,chamber psych,chillwave,dream pop,electronica,indie rock,la indie,modern alternative rock,modern dream pop,modern rock,new rave",0.431,0.639,11,-9.07,0,0.034,0.254,0.352,0.0856,0.428,85.404
+The Enemy,Black Bear,Andrew Belle,2013-08-20,286865,56,"acoustic pop,indie folk,neo mellow",0.536,0.89,1,-5.222,1,0.0375,0.078,0.0202,0.131,0.273,121.974
+Wrecked,Wrecked,Imagine Dragons,2021-07-02,244004,64,"modern rock,rock",0.626,0.56,0,-5.82,0,0.0288,0.148,1.51e-05,0.109,0.229,93.989
+Acolyte,Birdie,"Slaughter Beach, Dog",2017-10-27,316468,58,"alternative emo,anti-folk,bubblegrunge,emo,indie pop,indie rock,lo-fi emo,small room",0.79,0.476,9,-10.674,1,0.0338,0.782,0.0942,0.113,0.774,123.977
+Flying,Original Album Classics,Anathema,2011,357266,29,"gothic metal,progressive doom,progressive metal",0.388,0.353,0,-9.389,0,0.032,0.0142,0.000542,0.188,0.0405,141.874
+Lisztomania,Best of 2019,Pomplamoose,2021-06-11,220000,0,folk-pop,0.454,0.695,0,-7.55,1,0.0674,0.00142,0.0391,0.148,0.357,191.986
+Raspberry,Spreading Rumours,Grouplove,2013-09-17,196026,61,"indie pop,indie poptimism,indie rock,indietronica,la indie,modern alternative rock,modern rock,rock,stomp and holler",0.492,0.779,3,-5.022,1,0.0498,0.0292,0.0,0.129,0.445,104.966
+Wet Dream,Wet Leg,Wet Leg,2022-04-08,140080,69,"crank wave,indie rock",0.721,0.701,2,-5.941,1,0.0306,0.000927,0.026,0.234,0.892,130.091
+Hey You - 2011 Remastered Version,The Wall (Remastered),Pink Floyd,1979-11-30,278706,59,"album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock",0.59,0.245,0,-17.17,1,0.0305,0.243,0.00454,0.142,0.22,112.452
+Blush,My Love Is Cool (Deluxe Edition),Wolf Alice,2016-02-05,259361,43,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.326,0.439,9,-8.963,1,0.035,0.157,0.000116,0.123,0.0875,122.892
+Hello,Open Mind: The Best of Blackfield,Blackfield,2004,185066,16,"neo-progressive,progressive metal,progressive rock,symphonic rock",0.43,0.37,0,-11.11,0,0.0266,0.226,0.118,0.23,0.221,65.74
+I Always Wanna Die (Sometimes),A Brief Inquiry Into Online Relationships,The 1975,2018-11-30,314662,0,"modern alternative rock,modern rock,pop,rock",0.376,0.473,4,-5.636,1,0.0325,0.00527,0.00162,0.123,0.0398,148.835
+bad idea!,bad idea!,girl in red,2019-09-03,219638,21,"bedroom pop,indie pop,norwegian indie,pop",0.511,0.806,1,-6.093,1,0.0481,0.03,0.0465,0.252,0.41,162.04
+Theworstthing,Day/Night,Parcels,2021-11-05,183906,52,"aussietronica,indie soul",0.757,0.345,0,-10.554,0,0.0365,0.411,0.03,0.0955,0.624,81.025
+Certainty,Dragon New Warm Mountain I Believe In You,Big Thief,2022-02-11,187388,60,"art pop,brooklyn indie,indie pop,indie rock,small room",0.611,0.507,9,-8.521,1,0.0267,0.0208,0.012,0.222,0.401,76.578
+Slow Show,Boxer,The National,2007-05-21,248266,50,"indie rock,modern rock,stomp and holler",0.575,0.695,4,-8.387,1,0.032,0.658,0.861,0.148,0.512,150.023
+all the good girls go to hell,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,168839,72,"art pop,electropop,pop",0.726,0.444,8,-8.922,0,0.372,0.283,0.143,0.177,0.569,185.044
+Washing Machine Heart,Be the Cowboy,Mitski,2018-08-17,128198,80,"brooklyn indie,indie pop",0.613,0.822,9,-4.087,1,0.026,0.0092,0.506,0.429,0.567,105.997
+Held,Lucifer On The Sofa,Spoon,2022-02-11,284853,41,"alternative dance,alternative rock,austindie,indie rock,modern rock,pop rock,rock",0.495,0.634,7,-8.635,1,0.0387,0.214,0.325,0.183,0.594,150.206
+Brianstorm,Favourite Worst Nightmare,Arctic Monkeys,2007-04-22,172866,68,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.42,0.974,1,-4.706,1,0.191,8.15e-05,0.00155,0.0871,0.463,165.182
+Grapevine,"And In The Darkness, Hearts Aglow",Weyes Blood,2022-11-18,325946,54,"art pop,experimental folk,indie pop",0.356,0.401,4,-9.399,0,0.0295,0.603,0.5,0.1,0.0908,124.192
+Enter Sandman,Metallica,Metallica,1991-08-12,331266,78,"hard rock,metal,old school thrash,rock,thrash metal",0.577,0.828,6,-8.691,0,0.0298,0.00213,0.0114,0.0581,0.604,123.257
+Good Will Hunting,Ants From Up There,"Black Country, New Road",2022-02-04,297906,53,"crank wave,indie rock,london indie,uk post-punk revival",0.587,0.358,2,-9.194,1,0.0276,0.219,0.00201,0.192,0.368,96.685
+Something Good,An Awesome Wave,alt-J,2012-05-28,218240,0,"indie rock,modern rock",0.682,0.589,7,-10.361,1,0.0295,0.731,0.486,0.0791,0.534,108.989
+Smoke Signals,Stranger in the Alps,Phoebe Bridgers,2017-09-22,324773,61,"indie pop,la indie",0.265,0.237,10,-14.599,1,0.0351,0.945,0.000267,0.112,0.19,87.912
+Californication,Californication (Deluxe Edition),Red Hot Chili Peppers,1999-06-08,329733,79,"alternative rock,funk metal,funk rock,permanent wave",0.592,0.767,9,-2.788,0,0.027,0.0021,0.00165,0.127,0.328,96.483
+Reckoner,In Rainbows,Radiohead,2007-12-28,290213,62,"alternative rock,art rock,melancholia,oxford indie,permanent wave,rock",0.523,0.656,4,-7.441,0,0.0262,0.511,0.16,0.0679,0.214,104.271
+Satellite,Lucifer On The Sofa,Spoon,2022-02-11,225514,35,"alternative dance,alternative rock,austindie,indie rock,modern rock,pop rock,rock",0.564,0.646,0,-5.466,1,0.0309,0.385,0.000233,0.0854,0.343,112.556
+mirrorball,folklore,Taylor Swift,2020-07-24,208977,72,pop,0.553,0.413,2,-10.037,1,0.0334,0.687,2.33e-06,0.0594,0.379,110.107
+My Name Is Human,The Boy Who Died Wolf,Highly Suspect,2016-11-18,258613,0,"modern alternative rock,modern rock,post-grunge,rock",0.507,0.723,2,-5.577,0,0.0288,8.83e-05,0.000189,0.0852,0.188,140.032
+It's hard to get around the wind,Submarine - Original Songs From The Film By Alex Turner,Alex Turner,2011-03-15,247013,39,"modern rock,rock,sheffield indie",0.436,0.244,0,-19.096,1,0.0339,0.87,0.000371,0.102,0.359,145.42
+"Song to the Siren - Recorded at Strongroom Studios, London",Spotify Singles,Wolf Alice,2017-11-15,211159,37,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.371,0.15,2,-11.116,1,0.0294,0.963,0.0,0.124,0.0785,68.774
+Kathleen,The Balcony,Catfish and the Bottlemen,2014-09-15,160886,63,"modern alternative rock,modern rock,rock,stomp pop,welsh rock",0.489,0.892,11,-4.757,0,0.0786,0.000369,0.00293,0.411,0.598,137.93
+Wish You Were Here - 2011 Remaster,Wish You Were Here (Remastered Version),Pink Floyd,1975-09-12,304200,63,"album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock",0.5,0.185,7,-20.242,1,0.0535,0.728,0.000746,0.273,0.293,121.002
+Shuffle,A Different Kind Of Fix,Bombay Bicycle Club,2011-01-01,235293,57,"alternative dance,british indie rock,indie rock,indietronica,modern rock,new rave,rock,stomp and holler",0.627,0.959,7,-4.744,1,0.0298,0.316,0.00576,0.112,0.397,109.981
+midnight love,midnight love,girl in red,2020-04-14,193928,7,"bedroom pop,indie pop,norwegian indie,pop",0.284,0.538,2,-9.894,0,0.0886,0.717,0.105,0.111,0.259,179.708
+Kyoto,Punisher,Phoebe Bridgers,2020-06-18,184524,0,"indie pop,la indie",0.599,0.742,11,-6.886,1,0.0419,0.0488,0.32,0.0916,0.493,131.014
+Jackie Down The Line,Jackie Down The Line,Fontaines D.C.,2022-01-11,241093,45,"crank wave,indie rock,irish indie rock,modern alternative rock,modern rock",0.547,0.88,7,-4.562,1,0.0442,0.0102,0.0,0.0884,0.44,134.981
+"to Perth, before the border closes","to Perth, before the border closes",Julia Jacklin,2020-10-12,176733,55,"art pop,indie folk,indie pop,indie rock,sydney indie",0.589,0.274,2,-12.442,1,0.031,0.302,0.000829,0.107,0.23,95.666
+King,Dance Fever,Florence + The Machine,2022-05-13,280130,60,"baroque pop,pop,uk alternative pop",0.731,0.45,6,-8.086,0,0.0443,0.136,0.000989,0.107,0.0856,105.989
+The Bomb,Dance Fever,Florence + The Machine,2022-05-13,164566,58,"baroque pop,pop,uk alternative pop",0.634,0.198,11,-8.68,1,0.0339,0.912,9.94e-05,0.0875,0.299,110.79
+The Beach,Blue Weekend,Wolf Alice,2021-06-04,155005,45,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.698,0.351,8,-8.981,1,0.0349,0.253,0.581,0.153,0.281,108.005
+Age of Anxiety I,WE,Arcade Fire,2022-05-06,327106,52,"baroque pop,canadian indie,indie rock,modern rock,new rave,permanent wave,quebec indie,rock",0.355,0.41,6,-11.95,0,0.0338,0.219,0.0114,0.174,0.225,124.65
+Stuck on the puzzle,Submarine - Original Songs From The Film By Alex Turner,Alex Turner,2011-03-14,211053,62,"modern rock,rock,sheffield indie",0.58,0.682,4,-8.523,1,0.0332,0.0792,0.0316,0.161,0.774,77.53
+Stairway to Heaven - Remaster,Led Zeppelin IV (Deluxe Edition),Led Zeppelin,1971-11-08,482830,76,"album rock,classic rock,hard rock,rock",0.338,0.34,9,-12.049,0,0.0339,0.58,0.0032,0.116,0.197,82.433
+In Another Life,Pressure Machine (Deluxe),The Killers,2022-03-25,225693,32,"alternative rock,dance rock,modern rock,permanent wave,rock",0.629,0.75,10,-5.827,1,0.0413,0.21,1.23e-06,0.117,0.587,120.009
+Ghost Ship,The Magic Whip,Blur,2015-04-24,299133,54,"alternative rock,britpop,madchester,modern rock,permanent wave,pop rock,rock",0.804,0.722,2,-6.421,1,0.0377,0.0328,0.00269,0.0763,0.858,140.003
+So Good At Being in Trouble,II,Unknown Mortal Orchestra,2013-02-05,230146,64,"chillwave,indie rock,kiwi rock,neo-psychedelic,portland hip hop,psychedelic pop",0.829,0.435,0,-10.136,1,0.0515,0.0363,0.881,0.119,0.594,103.817
+Your Decision,Black Gives Way To Blue,Alice In Chains,2009-01-01,283173,12,"alternative metal,alternative rock,grunge,hard rock,nu metal,rock",0.469,0.631,3,-5.872,0,0.0262,4.42e-05,0.000375,0.09,0.192,99.96
+Fake Tales Of San Francisco,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,2006-01-29,177946,61,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.454,0.778,9,-4.225,1,0.0449,0.00998,0.0,0.0427,0.704,127.158
+Ur Mum,Wet Leg,Wet Leg,2022-04-08,201253,60,"crank wave,indie rock",0.685,0.72,4,-5.553,1,0.028,0.00702,0.275,0.425,0.554,133.016
+Lipstick On The Glass,Blue Weekend,Wolf Alice,2021-06-04,247560,50,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.298,0.636,7,-5.981,1,0.04,0.0973,0.154,0.107,0.193,94.088
+"If You Were There, Beware",Favourite Worst Nightmare,Arctic Monkeys,2007-04-22,276200,55,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.328,0.805,4,-6.74,0,0.0383,0.000938,0.048,0.104,0.264,135.546
+No Longer Making Time,Slowdive,Slowdive,2017-05-05,348107,46,"alternative rock,art pop,dream pop,nu gaze,reading indie,rock,shoegaze",0.561,0.504,6,-7.596,1,0.0248,0.0227,0.849,0.0837,0.519,106.965
+Lamb's Wool,Lamb's Wool,Foster The People,2020-05-22,276360,57,"indietronica,modern rock,rock",0.433,0.614,8,-7.594,0,0.0499,0.111,5.61e-05,0.141,0.233,178.751
+Elephant,Lonerism,Tame Impala,2012-01-01,211226,69,"australian psych,neo-psychedelic",0.598,0.553,9,-6.742,0,0.0397,0.562,0.157,0.257,0.533,123.075
+Something Good,An Awesome Wave,alt-J,2012-05-28,218240,0,"indie rock,modern rock",0.68,0.588,7,-10.36,1,0.0296,0.728,0.499,0.0791,0.521,108.994
+Miracle Aligner,Everything You've Come To Expect (Deluxe Edition),The Last Shadow Puppets,2016-12-02,245727,59,"baroque pop,indie rock,modern rock,rock,sheffield indie",0.562,0.724,6,-8.627,0,0.0271,0.0124,1.42e-06,0.223,0.855,113.056
+Fade Into You,So Tonight That I Might See,Mazzy Star,1993-10-05,295600,76,"alternative rock,art pop,dream pop,melancholia,rock,shoegaze,slowcore",0.42,0.33,9,-13.925,1,0.0275,0.245,0.000679,0.0677,0.175,157.143
+Speaking Terms,Lush,Snail Mail,2018-06-08,233560,46,"art pop,baltimore indie,bubblegrunge,indie pop,indie rock",0.562,0.711,4,-7.033,1,0.0271,0.0766,0.35,0.117,0.411,124.887
+Rocky Trail,Peace Or Love,Kings of Convenience,2021-06-18,210377,31,"bergen indie,melancholia,norwegian indie",0.549,0.418,6,-13.172,1,0.0423,0.788,0.123,0.112,0.692,171.98
+Lydia Wears A Cross,PRE PLEASURE,Julia Jacklin,2022-08-26,241818,42,"art pop,indie folk,indie pop,indie rock,sydney indie",0.576,0.439,1,-9.269,1,0.03,0.626,8.07e-05,0.105,0.739,106.095
+Andromeda,Titanic Rising,Weyes Blood,2019-04-05,280186,65,"art pop,experimental folk,indie pop",0.467,0.461,1,-7.94,0,0.0274,0.368,0.00115,0.358,0.188,131.325
+Neighborhood #1 (Tunnels),Funeral,Arcade Fire,2004-06-16,288333,54,"baroque pop,canadian indie,indie rock,modern rock,new rave,permanent wave,quebec indie,rock",0.282,0.738,0,-5.566,1,0.0324,0.0647,0.0142,0.29,0.211,126.914
+Bones,"Sometimes, Forever",Soccer Mommy,2022-06-24,245200,42,"art pop,bubblegrunge,indie pop,indie rock,small room",0.329,0.777,9,-5.033,1,0.0281,0.12,0.743,0.369,0.41,103.087
+Sugar/Tzu,Hellfire,black midi,2022-07-15,230687,48,"crank wave,indie rock,noise rock,uk noise rock,uk post-punk revival",0.275,0.977,0,-4.418,1,0.378,0.105,1.08e-05,0.472,0.101,87.678
+Feel Good Inc.,Demon Days,Gorillaz,2005-05-23,222640,81,alternative hip hop,0.818,0.705,6,-6.679,1,0.177,0.00836,0.00233,0.613,0.772,138.559
+Motion Sickness,Stranger in the Alps,Phoebe Bridgers,2017-09-22,229760,73,"indie pop,la indie",0.651,0.546,1,-9.021,1,0.0357,0.774,0.0437,0.0842,0.623,107.021
+I Told You That I Was Afraid,Expert In A Dying Field,The Beths,2022-09-16,201733,24,"auckland indie,bubblegrunge,indie pop,indie punk,indie rock,kiwi rock,modern power pop,nz indie",0.396,0.812,9,-10.027,1,0.0526,0.00128,0.00179,0.121,0.522,98.761
+Fun,"Don't You Worry, Honey",Sir Sly,2017-06-30,232624,50,"electropop,indie poptimism,indie rock,indietronica,la indie,modern alternative rock,modern rock,vapor soul",0.632,0.678,9,-7.532,1,0.0296,0.00427,0.206,0.0579,0.857,144.026
+Feeling Like I Do - Spotify Singles,Spotify Singles,Snail Mail,2022-06-29,236644,38,"art pop,baltimore indie,bubblegrunge,indie pop,indie rock",0.484,0.826,8,-8.922,0,0.0468,0.00203,0.0,0.21,0.715,129.906
+Another Love,Long Way Down (Deluxe),Tom Odell,2013-06-24,244360,89,"chill pop,pop",0.445,0.537,4,-8.532,0,0.04,0.695,1.65e-05,0.0944,0.131,122.769
+Daisy - Spotify Singles,Spotify Singles,Wet Leg,2022-09-21,149443,54,"crank wave,indie rock",0.549,0.798,3,-4.158,0,0.0476,0.392,0.000925,0.132,0.357,118.936
+The Time You Wait,Walking into the Forest,The Pilgrim,2019-04-26,284165,36,modern psychedelic folk,0.388,0.207,6,-15.051,1,0.034,0.303,6.32e-05,0.118,0.0881,121.948
+Too Late Now,Wet Leg,Wet Leg,2022-04-08,209186,56,"crank wave,indie rock",0.357,0.664,7,-7.325,1,0.0888,0.00859,0.635,0.0971,0.445,156.38
+The View From The Afternoon,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,2006-01-29,222946,59,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.387,0.922,9,-5.192,0,0.0674,0.00487,0.0,0.187,0.417,146.478
+Alrighty Aphrodite,Being So Normal,Peach Pit,2018-06-28,207813,66,"indie pop,indie rock,modern rock,vancouver indie",0.534,0.724,6,-4.675,0,0.0495,0.00605,0.0929,0.108,0.503,81.846
+Little One,The Boy Who Died Wolf,Highly Suspect,2016-11-18,241666,0,"modern alternative rock,modern rock,post-grunge,rock",0.474,0.363,7,-7.489,1,0.0295,0.0126,7.77e-06,0.109,0.11,139.889
+A Passing Rain,Expert In A Dying Field,The Beths,2022-09-16,195960,25,"auckland indie,bubblegrunge,indie pop,indie punk,indie rock,kiwi rock,modern power pop,nz indie",0.524,0.599,2,-10.819,1,0.045,0.102,0.0872,0.2,0.112,141.976
+Amsterdam,Night Visions,Imagine Dragons,2012-09-04,241426,54,"modern rock,rock",0.516,0.768,9,-4.964,1,0.0362,0.00852,8.49e-06,0.136,0.204,115.005
+Estranged,Use Your Illusion II,Guns N' Roses,1991-09-18,563893,62,"glam metal,hard rock,rock",0.359,0.762,11,-8.323,1,0.032,0.0105,0.281,0.368,0.167,89.259
+Leviathan,Raw Data Feel,Everything Everything,2022-05-20,320200,37,"alternative dance,experimental pop,indie rock,modern alternative rock,modern rock,new rave",0.388,0.407,11,-8.784,0,0.0273,0.431,0.1,0.0699,0.109,147.869
+We're Just Making It Worse,We're Just Making It Worse,"Cameron Avery,Alexandra Savior",2020-12-07,244173,42,modern dream pop,0.718,0.455,1,-9.244,0,0.0251,0.735,0.00867,0.0904,0.472,104.049
+Another Day Of Sun,La La Land (Original Motion Picture Soundtrack),La La Land Cast,2016-12-09,228173,63,,0.588,0.742,8,-6.757,1,0.0528,0.0162,3.98e-06,0.653,0.824,125.819
+Lottery Noises,Blue Rev,Alvvays,2022-10-07,198435,30,"dreamo,indie pop,indie rock,shoegaze,toronto indie",0.134,0.488,7,-6.563,1,0.0531,0.274,0.0204,0.0778,0.135,206.165
+The Cave,Sigh No More,Mumford & Sons,2009-01-01,215626,59,"modern folk rock,stomp and holler,uk americana",0.592,0.499,4,-9.463,1,0.0375,0.0536,4.52e-05,0.113,0.346,141.937
+Ocean Man,The SpongeBob SquarePants Movie-Music From The Movie and More,Ween,2004-11-09,126946,38,alternative rock,0.72,0.912,4,-6.13,1,0.0363,0.551,0.00122,0.0982,0.973,122.782
+A Lack of Color,Transatlanticism (10th Anniversary Edition),Death Cab for Cutie,2003,215920,53,"indie pop,indie rock,modern rock,washington indie",0.64,0.321,3,-12.581,1,0.0292,0.809,0.00126,0.107,0.356,135.799
+I Need My Girl,Trouble Will Find Me,The National,2013-05-20,245240,62,"indie rock,modern rock,stomp and holler",0.52,0.436,0,-11.508,0,0.0355,0.865,0.0651,0.123,0.114,126.053
+The Unordained,Miss Universe,Nilüfer Yanya,2019-03-22,202304,17,"art pop,indie rock,uk alternative pop",0.836,0.228,1,-8.68,1,0.0461,0.794,0.0,0.122,0.511,98.028
+Love is a Laserquest,Suck It and See,Arctic Monkeys,2011-06-06,191426,60,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.349,0.662,11,-6.873,1,0.0402,0.00197,0.908,0.136,0.554,169.926
+Stoned at the Nail Salon,Stoned at the Nail Salon,Lorde,2021-07-21,266432,0,"art pop,metropopolis,nz pop,pop",0.466,0.113,2,-13.325,1,0.0414,0.947,7.53e-05,0.0986,0.104,125.369
+Next Of Kin,Alvvays,Alvvays,2014-01-01,228453,30,"dreamo,indie pop,indie rock,shoegaze,toronto indie",0.33,0.895,9,-4.488,1,0.0485,0.361,0.759,0.266,0.609,160.947
+Wonderwall - Remastered,(What's The Story) Morning Glory? [Remastered],Oasis,1995-10-02,258773,75,"beatlesque,britpop,madchester,permanent wave,pop rock,rock",0.378,0.896,2,-4.066,1,0.0407,0.000452,0.0,0.194,0.469,174.302
+Say It Ain't So,Weezer,Weezer,1994-05-10,258826,73,"alternative rock,modern power pop,modern rock,permanent wave,rock",0.634,0.551,3,-7.136,1,0.0352,0.00737,1.82e-05,0.07,0.453,151.779
+Helplessness Blues,Helplessness Blues,Fleet Foxes,2011-05-03,303386,0,"chamber pop,folk,indie folk,indie pop,indie rock,seattle indie,stomp and holler",0.329,0.455,8,-7.74,1,0.0339,0.0879,6.89e-06,0.118,0.19,124.888
+Apartment 402,if i could make it go quiet,girl in red,2021-04-30,205240,6,"bedroom pop,indie pop,norwegian indie,pop",0.44,0.441,5,-8.347,0,0.0454,0.684,0.864,0.11,0.0488,125.241
+"Love, Try Not To Let Go",PRE PLEASURE,Julia Jacklin,2022-08-26,223720,39,"art pop,indie folk,indie pop,indie rock,sydney indie",0.735,0.479,0,-10.49,1,0.0308,0.5,0.0108,0.103,0.501,125.016
+Funeral,Stranger in the Alps,Phoebe Bridgers,2017-09-22,232373,65,"indie pop,la indie",0.218,0.263,11,-14.416,1,0.0376,0.947,0.00028,0.0919,0.307,170.724
+Old Friends,Different Creatures,Circa Waves,2017-03-10,202800,30,"britpop revival,english indie rock,indie rock,indie surf,liverpool indie,modern alternative rock,modern rock,rock",0.677,0.413,9,-11.139,1,0.0301,0.084,0.0404,0.309,0.313,146.102
+Next of Kin,Alvvays,Alvvays,2014-07-21,228453,33,"dreamo,indie pop,indie rock,shoegaze,toronto indie",0.332,0.894,9,-4.487,1,0.0483,0.363,0.767,0.26,0.614,160.897
+Royals,Pure Heroine,Lorde,2013-09-27,190185,77,"art pop,metropopolis,nz pop,pop",0.674,0.428,7,-9.504,1,0.122,0.121,0.0,0.132,0.337,84.878
+When the Sun Hits,Souvlaki,Slowdive,1993,285906,64,"alternative rock,art pop,dream pop,nu gaze,reading indie,rock,shoegaze",0.33,0.532,2,-11.764,1,0.0263,0.00101,0.709,0.101,0.218,93.512
+A Certain Romance,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,2006-01-29,331200,62,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.455,0.881,11,-5.587,1,0.0401,0.000566,6.06e-05,0.11,0.201,137.949
+Everlong,The Colour And The Shape,Foo Fighters,1997-05-20,250546,82,"alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock",0.413,0.881,11,-5.541,0,0.0367,5.99e-05,0.000308,0.0805,0.364,158.066
+The Hardest Cut,The Hardest Cut,Spoon,2021-10-28,193369,41,"alternative dance,alternative rock,austindie,indie rock,modern rock,pop rock,rock",0.671,0.683,7,-5.271,1,0.0965,0.135,0.00107,0.0534,0.809,164.943
+In My Head,In My Head,Bedroom,2017-01-12,354663,0,small room,0.577,0.611,9,-13.535,1,0.0323,0.168,0.92,0.106,0.177,150.91
+California,Solar Power,Lorde,2021-08-20,191881,53,"art pop,metropopolis,nz pop,pop",0.644,0.443,9,-10.043,1,0.0369,0.817,0.0,0.28,0.549,93.011
+summer depression,summer depression,girl in red,2018-03-03,151693,16,"bedroom pop,indie pop,norwegian indie,pop",0.691,0.306,9,-15.651,1,0.0544,0.632,0.479,0.108,0.62,129.929
+Little Talks,My Head Is An Animal,Of Monsters and Men,2012-01-01,266600,76,"folk-pop,metropopolis,modern rock,pop rock,stomp and holler",0.457,0.757,1,-5.177,1,0.032,0.0206,0.0,0.146,0.417,102.961
+Strawberry Fields Forever - Stereo Mix 2015,Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition),The Beatles,1967-06-01,246413,29,"beatlesque,british invasion,classic rock,merseybeat,psychedelic rock,rock",0.38,0.627,10,-9.647,1,0.267,0.342,0.000231,0.092,0.255,95.797
+No Hard Feelings,Blue Weekend,Wolf Alice,2021-06-04,155007,52,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.679,0.253,2,-13.777,1,0.0412,0.812,0.301,0.111,0.653,127.45
+Every Other Freckle,This Is All Yours,alt-J,2014-09-22,216004,0,"indie rock,modern rock",0.528,0.707,2,-7.626,1,0.0822,0.625,0.0355,0.116,0.502,143.802
+honey,"If I Can’t Have Love, I Want Power",Halsey,2021-08-27,173840,54,"dance pop,electropop,etherpop,indie poptimism,pop",0.471,0.857,9,-5.069,1,0.0614,0.000499,5.44e-05,0.0682,0.393,160.069
+Paradise,Staying at Tamara's,George Ezra,2018-03-23,222044,65,"folk-pop,neo-singer-songwriter",0.642,0.881,11,-3.537,1,0.0393,0.209,0.0,0.21,0.913,138.03
+Glory,Valentine,Snail Mail,2021-11-05,140760,50,"art pop,baltimore indie,bubblegrunge,indie pop,indie rock",0.609,0.809,11,-4.972,0,0.0344,0.00386,0.00296,0.349,0.763,118.04
+"Archie, Marry Me",Alvvays,Alvvays,2014-01-01,196560,45,"dreamo,indie pop,indie rock,shoegaze,toronto indie",0.27,0.83,7,-4.592,1,0.0741,0.00956,0.434,0.142,0.205,117.314
+Familiär,Citizen of Glass,Agnes Obel,2016-10-21,235988,0,chamber pop,0.554,0.414,4,-12.288,1,0.0313,0.921,0.0149,0.108,0.229,137.355
+Take On Me - MTV Unplugged,MTV Unplugged - Summer Solstice,a-ha,2017-10-06,253906,57,"new romantic,new wave,new wave pop,permanent wave,pop rock,soft rock,synthpop",0.472,0.204,9,-13.419,1,0.0408,0.966,4.12e-05,0.69,0.296,129.504
+Big Ideas,The Car,Arctic Monkeys,2022-10-21,237984,62,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.548,0.328,9,-9.973,0,0.0296,0.663,0.00365,0.0972,0.343,67.023
+everything i wanted,everything i wanted,Billie Eilish,2019-11-13,245425,81,"art pop,electropop,pop",0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006
+"Sweet Dreams, TN",Everything You've Come To Expect (Deluxe Edition),The Last Shadow Puppets,2016-12-02,236252,63,"baroque pop,indie rock,modern rock,rock,sheffield indie",0.282,0.566,11,-6.924,0,0.0291,0.000878,0.0,0.38,0.477,112.362
+Belinda Says,Blue Rev,Alvvays,2022-10-07,165445,41,"dreamo,indie pop,indie rock,shoegaze,toronto indie",0.348,0.75,4,-3.972,1,0.0578,0.0688,0.000179,0.0698,0.308,118.932
+The Only Place,Dragon New Warm Mountain I Believe In You,Big Thief,2022-02-11,194251,43,"art pop,brooklyn indie,indie pop,indie rock,small room",0.45,0.248,4,-10.705,1,0.0353,0.927,0.00025,0.107,0.37,117.405
+Now That You're Gone,Help Us Stranger (With Track-by-Track Commentary),The Raconteurs,2019-06-14,240985,0,"alternative rock,garage rock,garage rock revival,indie rock,modern alternative rock,modern blues rock,modern rock,rock,supergroup",0.407,0.456,7,-9.212,1,0.0828,0.118,0.0218,0.121,0.481,200.268
+Black Treacle,Suck It and See,Arctic Monkeys,2011-06-06,217440,55,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.343,0.89,7,-5.759,1,0.0655,0.000821,0.0,0.0912,0.525,100.061
+I Know The End,Punisher,Phoebe Bridgers,2020-06-18,344692,70,"indie pop,la indie",0.323,0.323,1,-10.268,1,0.0351,0.33,0.0229,0.233,0.256,111.826
+Jennifer,Raw Data Feel,Everything Everything,2022-05-20,257853,3,"alternative dance,experimental pop,indie rock,modern alternative rock,modern rock,new rave",0.57,0.79,9,-6.981,1,0.0609,0.11,0.000123,0.318,0.714,157.993
+Fireside,AM,Arctic Monkeys,2013-09-09,181049,66,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.538,0.953,9,-5.611,0,0.056,0.0234,0.00126,0.113,0.74,100.033
+Time is Running Out,Absolution,Muse,2004-03-23,237039,66,"modern rock,permanent wave,rock",0.585,0.842,9,-5.883,0,0.0556,0.00242,0.00686,0.0866,0.428,118.211
+Cough Syrup,Young The Giant (Special Edition),Young the Giant,2011,249520,67,"modern alternative rock,modern rock,rock,stomp and holler",0.534,0.721,11,-7.307,0,0.0417,0.0343,6.24e-06,0.115,0.225,128.978
+My Mistakes Were Made For You,My Mistakes Were Made For You,"The Last Shadow Puppets,Alex Turner,Miles Kane",2008-10-20,186546,28,"baroque pop,indie rock,modern rock,rock,sheffield indie,garage rock",0.302,0.914,2,-4.724,0,0.0516,0.0344,4.05e-06,0.305,0.758,97.953
+I Found,5AM (Expanded Edition),Amber Run,2015-04-20,273000,70,"indie anthem-folk,indie folk",0.567,0.303,7,-12.481,0,0.0351,0.862,0.00563,0.104,0.252,124.949
+The Scientist,A Rush of Blood to the Head,Coldplay,2002-08-08,309600,81,"permanent wave,pop",0.557,0.442,5,-7.224,1,0.0243,0.731,1.46e-05,0.11,0.213,146.277
+Heavyweight Champion of the Year,Miss Universe,Nilüfer Yanya,2019-03-22,282097,27,"art pop,indie rock,uk alternative pop",0.643,0.268,6,-8.637,1,0.0545,0.779,0.0022,0.0802,0.417,180.03
+Darkness Forever,"Sometimes, Forever",Soccer Mommy,2022-06-24,255760,34,"art pop,bubblegrunge,indie pop,indie rock,small room",0.511,0.546,1,-7.165,0,0.0322,0.0715,0.0831,0.0769,0.127,130.168
+Highway Tune,From The Fires,Greta Van Fleet,2017-11-10,180640,69,"modern blues rock,modern hard rock,rock",0.582,0.962,4,-3.037,1,0.0542,0.0096,0.128,0.283,0.506,123.971
+Machu Picchu,Angles,The Strokes,2011-03-21,209626,62,"alternative rock,garage rock,modern rock,permanent wave,rock",0.695,0.817,1,-5.294,1,0.0659,0.0132,0.097,0.0601,0.874,105.014
+Weird Goodbyes (feat. Bon Iver),Weird Goodbyes (feat. Bon Iver),"The National,Bon Iver",2022-08-22,303173,62,"indie rock,modern rock,stomp and holler,eau claire indie,indie folk,melancholia",0.523,0.555,8,-7.761,1,0.0776,0.295,0.000859,0.0812,0.715,99.641
+Sisyphus,My Finest Work Yet,Andrew Bird,2019-03-22,247493,57,"baroque pop,chamber pop,chicago indie,indie folk,indie pop,indie rock,melancholia,stomp and holler",0.631,0.792,0,-4.364,0,0.0427,0.23,0.000317,0.0756,0.462,82.901
+Losers,Losers,Balthazar,2020-10-29,205680,37,"belgian indie,belgian rock,dutch indie,ghent indie",0.864,0.385,5,-11.553,0,0.0454,0.102,0.0539,0.143,0.665,113.014
+Hearts Aglow,"And In The Darkness, Hearts Aglow",Weyes Blood,2022-11-18,349213,49,"art pop,experimental folk,indie pop",0.419,0.501,9,-8.662,1,0.031,0.723,0.261,0.102,0.116,109.1
+Easy - Music From The Motion Picture Baby Driver,Baby Driver (Music from the Motion Picture),Sky Ferreira,2017-06-23,267573,41,"art pop,candy pop,dance pop,electropop,escape room,indie pop,la indie,metropopolis,neo-synthpop,pop",0.6,0.274,9,-10.695,0,0.03,0.267,0.0163,0.106,0.246,132.034
+Deli,Başıbozuk,mor ve ötesi,2008-11-24,184800,0,"turkish alternative,turkish alternative rock,turkish rock",0.43,0.916,4,-2.9,0,0.058,0.0357,0.0,0.173,0.449,75.467
+Crawling - One More Light Live,One More Light Live,Linkin Park,2017-12-15,209493,51,"alternative metal,nu metal,post-grunge,rap metal",0.289,0.303,1,-12.032,1,0.0382,0.832,0.0,0.866,0.208,146.651
+Cornerstone,Humbug,Arctic Monkeys,2009-08-20,197973,64,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.287,0.721,9,-5.81,1,0.0387,0.00764,0.0,0.328,0.763,169.252
+circle the drain,color theory,Soccer Mommy,2020-02-28,280213,56,"art pop,bubblegrunge,indie pop,indie rock,small room",0.482,0.79,9,-5.221,1,0.038,0.303,0.00028,0.1,0.47,169.064
+Tangelo,Unlimited Love,Red Hot Chili Peppers,2022-04-01,217967,47,"alternative rock,funk metal,funk rock,permanent wave",0.507,0.177,6,-15.226,1,0.0406,0.737,4.87e-05,0.071,0.401,110.985
+when the party's over,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,196077,80,"art pop,electropop,pop",0.367,0.111,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642
+We Used to Wait,The Suburbs,Arcade Fire,2010-08-02,301400,46,"baroque pop,canadian indie,indie rock,modern rock,new rave,permanent wave,quebec indie,rock",0.573,0.642,8,-7.239,1,0.0279,0.0734,0.0232,0.105,0.49,120.753
+Losing My Mind,The Dream,alt-J,2022-02-11,282000,38,"indie rock,modern rock",0.465,0.348,2,-13.822,1,0.0329,0.79,0.0917,0.156,0.349,130.027
+Mykonos,First Collection: 2006-2009,Fleet Foxes,2018-11-09,275306,58,"chamber pop,folk,indie folk,indie pop,indie rock,seattle indie,stomp and holler",0.3,0.449,8,-9.308,0,0.0306,0.395,0.000456,0.137,0.364,82.965
+White Leather,My Love Is Cool (Deluxe Edition),Wolf Alice,2016-02-05,156375,55,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.732,0.355,2,-16.885,1,0.0341,0.86,0.0245,0.107,0.255,127.953
+"It's Not Just Me, It's Everybody","It's Not Just Me, It's Everybody",Weyes Blood,2022-09-12,376520,17,"art pop,experimental folk,indie pop",0.426,0.342,0,-11.531,1,0.0265,0.858,0.0172,0.258,0.155,74.853
+Coffee & TV,13,Blur,1999,358773,61,"alternative rock,britpop,madchester,modern rock,permanent wave,pop rock,rock",0.743,0.742,2,-10.117,1,0.0367,0.051,0.234,0.0987,0.706,121.604
+Rewind - Echo Mountain Sessions,Echo Mountain Sessions EP,Sylvan Esso,2017-07-28,290187,45,"electropop,etherpop,indie pop,indie rock",0.416,0.319,9,-13.886,1,0.0321,0.518,0.00183,0.144,0.115,83.246
+Dust Bowl III,Tamer Animals,Other Lives,2011-08-15,297266,39,"indie rock,ok indie,stomp and holler",0.465,0.578,9,-10.155,0,0.0314,0.619,0.56,0.126,0.322,135.891
+By the Way,By the Way (Deluxe Edition),Red Hot Chili Peppers,2002-07-09,216933,72,"alternative rock,funk metal,funk rock,permanent wave",0.451,0.97,0,-4.938,1,0.107,0.0264,0.00355,0.102,0.198,122.444
+Being In Love,Wet Leg,Wet Leg,2022-04-08,122466,61,"crank wave,indie rock",0.716,0.687,9,-4.94,0,0.0342,0.00922,0.11,0.123,0.342,126.03
+Bread Song,Ants From Up There,"Black Country, New Road",2022-02-04,381413,49,"crank wave,indie rock,london indie,uk post-punk revival",0.347,0.273,4,-13.935,1,0.0315,0.263,0.126,0.0943,0.0709,130.233
+Punisher,Punisher,Phoebe Bridgers,2020-06-18,189622,0,"indie pop,la indie",0.428,0.226,1,-12.82,1,0.0409,0.986,0.000402,0.108,0.212,129.163
+Angelica,Wet Leg,Wet Leg,2022-04-08,232320,60,"crank wave,indie rock",0.491,0.87,0,-5.138,1,0.0393,0.000141,0.000729,0.368,0.314,131.989
+ICU,Punisher,Phoebe Bridgers,2020-06-18,190093,0,"indie pop,la indie",0.507,0.658,2,-8.074,1,0.0321,0.416,0.00553,0.103,0.429,133.959
+When The Sun Goes Down,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,2006-01-29,202133,71,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.348,0.875,11,-4.758,0,0.199,0.0341,0.0,0.117,0.407,169.152
+Give Up,it was fun while it lasted,The Pack a.d.,2020-04-17,230685,29,"canadian garage rock,garage rock,garage rock revival,modern alternative rock,modern blues rock,punk blues,vancouver indie",0.441,0.631,7,-6.453,1,0.0268,0.111,0.0,0.127,0.334,96.515
+Eet,Far,Regina Spektor,2009-06-09,230866,46,"indie pop,lilith,piano rock",0.665,0.446,1,-11.884,1,0.0439,0.57,0.000669,0.082,0.172,141.94
+Dreaming of You,The Coral,The Coral,2002-02-26,141000,63,"britpop,modern rock,pop rock,rock",0.441,0.684,9,-7.495,0,0.031,0.374,0.000848,0.108,0.971,199.001
+If I Had A Gun...,Noel Gallagher's High Flying Birds,Noel Gallagher's High Flying Birds,2011-01-01,249106,0,"britpop,modern rock,pop rock,rock",0.295,0.754,6,-3.16,0,0.0349,0.0465,0.0514,0.164,0.18,152.465
+Plug in Baby,Origin of Symmetry,Muse,2001,218000,64,"modern rock,permanent wave,rock",0.408,0.965,2,-4.232,1,0.05,6.94e-06,0.000402,0.11,0.349,136.018
+Istanbul (Not Constantinople),Flood,They Might Be Giants,1990-01-02,153813,62,"anti-folk,comic,geek rock,permanent wave,zolo",0.688,0.748,5,-9.39,0,0.0377,0.0801,0.00453,0.136,0.892,114.144
+Little One,The Boy Who Died Wolf,Highly Suspect,2016-11-18,241533,54,"modern alternative rock,modern rock,post-grunge,rock",0.474,0.351,7,-7.533,1,0.0292,0.0122,7.35e-06,0.112,0.104,139.827
+Fitzpleasure,An Awesome Wave,alt-J,2012-05-28,219400,0,"indie rock,modern rock",0.585,0.594,9,-6.935,1,0.0487,0.144,0.0011,0.105,0.36,143.94
+hope is a dangerous thing for a woman like me to have - but I have it,Norman Fucking Rockwell!,Lana Del Rey,2019-08-30,324498,67,"art pop,pop",0.49,0.104,4,-13.208,0,0.0635,0.964,0.0,0.162,0.278,86.675
+Scrawny,Nothing Happens,Wallows,2019-03-22,166520,66,"indie pop,modern rock,pop",0.639,0.816,6,-5.28,0,0.0485,0.000985,0.0604,0.141,0.802,138.008
+Balaclava,Favourite Worst Nightmare,Arctic Monkeys,2007-04-22,171226,59,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.414,0.811,11,-4.4,0,0.0919,0.00133,0.000129,0.333,0.762,137.617
+Sunset,"Desire, I Want To Turn Into You",Caroline Polachek,2023-02-14,162909,63,"art pop,electropop,escape room,indie pop,indietronica,pop",0.643,0.753,11,-5.397,0,0.0577,0.609,4e-05,0.26,0.698,122.016
+Breezeblocks,An Awesome Wave,alt-J,2012-05-28,227080,0,"indie rock,modern rock",0.569,0.645,5,-7.368,1,0.0387,0.118,0.00114,0.146,0.247,74.985
+Mariners Apartment Complex,Norman Fucking Rockwell!,Lana Del Rey,2019-08-30,247150,69,"art pop,pop",0.531,0.252,9,-12.765,1,0.028,0.763,0.000133,0.104,0.159,76.054
+Confirmation (SSBD),Your Hero Is Not Dead,Westerman,2020-06-05,258266,44,uk alternative pop,0.778,0.465,8,-8.637,1,0.0326,0.804,0.162,0.104,0.479,121.974
+Easier than Lying,"If I Can’t Have Love, I Want Power",Halsey,2021-08-27,206346,49,"dance pop,electropop,etherpop,indie poptimism,pop",0.474,0.869,6,-4.067,0,0.17,8.36e-05,0.46,0.123,0.33,181.992
+Moon Song,Punisher,Phoebe Bridgers,2020-06-18,277676,0,"indie pop,la indie",0.38,0.24,1,-12.544,1,0.0514,0.871,0.00287,0.107,0.172,103.818
+Budapest,Wanted on Voyage,George Ezra,2014-06-27,200720,1,"folk-pop,neo-singer-songwriter",0.714,0.451,5,-8.268,1,0.0276,0.0883,0.0,0.108,0.406,127.787
+505,Favourite Worst Nightmare,Arctic Monkeys,2007-04-22,253586,83,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.526,0.866,0,-5.822,1,0.0568,0.00287,7.78e-05,0.0945,0.248,140.266
+Same Damn Luck,Feeling Lucky?,Nilüfer Yanya,2020-12-11,206540,35,"art pop,indie rock,uk alternative pop",0.867,0.508,6,-7.737,1,0.0348,0.171,0.00022,0.118,0.89,97.988
+forget her,we fell in love in october / forget her,girl in red,2018-11-21,143355,13,"bedroom pop,indie pop,norwegian indie,pop",0.533,0.313,2,-16.827,1,0.033,0.631,0.681,0.072,0.517,148.926
+Calm Like You,The Age Of The Understatement,"The Last Shadow Puppets,Alex Turner,Miles Kane",2008-04-19,148266,57,"baroque pop,indie rock,modern rock,rock,sheffield indie,garage rock",0.347,0.76,6,-7.264,0,0.0535,0.0057,5.59e-05,0.121,0.581,128.226
+rid of me,PAINLESS (Deluxe Edition),Nilüfer Yanya,2022-12-14,217712,23,"art pop,indie rock,uk alternative pop",0.833,0.321,9,-8.363,0,0.0381,0.375,0.00329,0.0768,0.434,123.98
+Fluorescent Adolescent,Favourite Worst Nightmare,Arctic Monkeys,2007-04-22,183893,75,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.654,0.828,1,-5.377,0,0.0281,0.00146,0.000144,0.122,0.79,112.056
+Shots - Live From Spotify London,Imagine Dragons (Spotify Sessions),Imagine Dragons,2015-04-20,212810,39,"modern rock,rock",0.681,0.733,11,-5.352,1,0.0668,0.265,0.0,0.714,0.411,111.058
+"Say, Can You Hear","Say, Can You Hear",Men I Trust,2018-11-30,189246,51,indie pop,0.623,0.403,6,-14.1,0,0.0598,0.78,0.763,0.11,0.49,157.912
+My Computer,Raw Data Feel,Everything Everything,2022-05-20,186506,0,"alternative dance,experimental pop,indie rock,modern alternative rock,modern rock,new rave",0.688,0.801,10,-5.703,0,0.0363,0.036,0.000131,0.114,0.804,134.004
+Glasgow,I Love You Jennifer B,Jockstrap,2022-09-09,334653,42,"art pop,chamber psych,crank wave,escape room,experimental pop,indie rock,london indie",0.672,0.602,0,-7.518,1,0.0308,0.568,0.000709,0.0622,0.284,109.993
+Basketball Shoes,Ants From Up There,"Black Country, New Road",2022-02-04,757440,49,"crank wave,indie rock,london indie,uk post-punk revival",0.283,0.451,7,-8.585,1,0.0452,0.0203,0.00318,0.0463,0.0683,91.116
+Snuff,All Hope Is Gone,Slipknot,2008-08-22,276146,66,"alternative metal,nu metal,rap metal",0.544,0.69,6,-5.723,0,0.0425,0.012,0.0095,0.0615,0.219,123.962
+The Dream Synopsis,Everything You've Come To Expect (Deluxe Edition),The Last Shadow Puppets,2016-12-02,183703,54,"baroque pop,indie rock,modern rock,rock,sheffield indie",0.485,0.579,4,-8.611,1,0.0374,0.116,0.0,0.129,0.367,129.906
+Concorde,Ants From Up There,"Black Country, New Road",2022-02-04,363773,56,"crank wave,indie rock,london indie,uk post-punk revival",0.565,0.284,9,-11.881,1,0.0286,0.023,0.098,0.113,0.314,131.309
+It's Happening Again,Citizen of Glass,Agnes Obel,2016-10-21,260492,0,chamber pop,0.143,0.311,10,-14.221,1,0.031,0.812,0.36,0.606,0.0892,173.317
+Solar Power,Solar Power,Lorde,2021-06-10,192621,0,"art pop,metropopolis,nz pop,pop",0.735,0.47,4,-9.405,1,0.1,0.266,0.000105,0.32,0.897,87.971
+Silk,My Love Is Cool,Wolf Alice,2015-06-22,243986,50,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.514,0.414,0,-9.693,1,0.0297,0.38,0.00891,0.142,0.231,86.014
+Apple Pie Bed,Chant Darling,Lawrence Arabia,2010-01-04,208813,33,nz indie,0.771,0.686,3,-5.699,1,0.0475,0.0725,0.0,0.446,0.775,126.815
+Instant Crush (feat. Julian Casablancas),Random Access Memories,"Daft Punk,Julian Casablancas",2013-05-17,337560,73,"electro,filter house,indie rock",0.775,0.585,10,-9.516,0,0.0271,0.0422,0.619,0.077,0.518,109.942
+The Place Where He Inserted the Blade,Ants From Up There,"Black Country, New Road",2022-02-04,433360,57,"crank wave,indie rock,london indie,uk post-punk revival",0.376,0.451,11,-8.276,1,0.0327,0.402,4.13e-05,0.128,0.164,123.344
+Black,Ten,Pearl Jam,1991-08-27,342653,71,"grunge,permanent wave,rock",0.36,0.684,4,-6.457,0,0.0308,0.323,0.0,0.34,0.2,77.15
+This Life,Father of the Bride,Vampire Weekend,2019-05-03,268600,59,"baroque pop,indie rock,modern rock,rock",0.62,0.712,9,-6.434,1,0.1,0.228,3.39e-06,0.0561,0.83,170.234
+Your Loves Whore,My Love Is Cool,Wolf Alice,2015-06-22,297386,41,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.582,0.59,2,-6.981,1,0.0487,0.0011,0.326,0.0502,0.32,156.007
+Locket,Locket,Crumb,2017-06-23,318378,0,"indie garage rock,neo-psychedelic",0.393,0.481,1,-10.462,1,0.0273,0.758,0.73,0.0869,0.0763,98.462
+Fitzpleasure,An Awesome Wave,alt-J,2012-05-28,219400,0,"indie rock,modern rock",0.578,0.594,9,-6.924,1,0.049,0.144,0.00116,0.102,0.354,143.953
+Mardy Bum,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,2006-01-29,175440,71,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.634,0.599,2,-5.447,1,0.0365,0.0288,0.0,0.197,0.312,112.215
+Got It Bad,Leisure,LEISURE,2018-10-05,205601,61,"auckland indie,indie soul,vapor soul",0.793,0.468,11,-10.053,1,0.0408,0.00839,0.0786,0.0689,0.539,96.001
+Tropic Morning News,Tropic Morning News,The National,2023-01-18,309400,64,"indie rock,modern rock,stomp and holler",0.565,0.818,6,-6.739,0,0.0308,0.0307,0.0123,0.0947,0.719,144.028
+Mr Schwartz,The Car,Arctic Monkeys,2022-10-21,210012,59,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.569,0.335,11,-13.637,0,0.0322,0.802,0.018,0.0834,0.388,127.587
+Pretty Visitors,Humbug,Arctic Monkeys,2009-08-20,220506,58,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.244,0.896,6,-5.576,0,0.464,0.0614,2.83e-05,0.127,0.142,83.354
+Secret Door,Humbug,Arctic Monkeys,2009-08-20,223066,59,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.323,0.806,7,-6.554,0,0.0769,0.0314,1.11e-05,0.181,0.548,124.615
+Broken Sleep,Myopia,Agnes Obel,2020-02-21,295966,46,chamber pop,0.567,0.267,4,-14.718,0,0.0326,0.946,0.0326,0.0993,0.203,126.837
+Take on Me,Hunting High and Low,a-ha,1985-06-01,225280,83,"new romantic,new wave,new wave pop,permanent wave,pop rock,soft rock,synthpop",0.573,0.902,6,-7.638,0,0.054,0.018,0.00125,0.0928,0.876,84.412
+Chaos Space Marine,Ants From Up There,"Black Country, New Road",2022-02-04,216680,53,"crank wave,indie rock,london indie,uk post-punk revival",0.355,0.549,9,-8.937,1,0.0378,0.2,0.00165,0.26,0.439,161.368
+Pharmacist,Blue Rev,Alvvays,2022-10-07,124130,52,"dreamo,indie pop,indie rock,shoegaze,toronto indie",0.187,0.793,2,-4.824,1,0.0584,0.0161,0.256,0.511,0.269,143.528
+Jeannie Becomes A Mom,LONER,Caroline Rose,2018-02-23,261153,54,"art pop,indie pop,indie rock,indie surf,vermont indie",0.618,0.802,5,-4.792,1,0.0265,0.00151,0.0211,0.252,0.567,102.008
+Ophelia,Cleopatra,The Lumineers,2016-04-08,160097,76,"folk-pop,pop,stomp and holler",0.664,0.573,5,-6.519,1,0.0277,0.613,0.000363,0.0857,0.566,76.023
+The Louvre,Melodrama,Lorde,2017-11-10,271088,0,"art pop,metropopolis,nz pop,pop",0.664,0.382,0,-9.977,1,0.047,0.239,0.00763,0.0943,0.126,123.214
+I Don't Wanna Go Out,Wet Leg,Wet Leg,2022-04-08,221866,54,"crank wave,indie rock",0.545,0.732,2,-6.789,1,0.0312,0.00524,0.203,0.359,0.479,120.014
+Rue,Rue,girl in red,2020-08-26,216831,5,"bedroom pop,indie pop,norwegian indie,pop",0.582,0.772,4,-9.438,0,0.0559,0.102,0.0449,0.168,0.273,124.975
+Little Lion Man,Sigh No More,Mumford & Sons,2009-01-01,245173,65,"modern folk rock,stomp and holler,uk americana",0.517,0.492,5,-8.05,1,0.0272,0.0275,3.19e-05,0.0873,0.455,138.585
+Less Of A Stranger,PRE PLEASURE,Julia Jacklin,2022-08-26,271349,29,"art pop,indie folk,indie pop,indie rock,sydney indie",0.327,0.0523,0,-18.311,1,0.0413,0.95,0.000862,0.111,0.115,82.3
+Simple Man,(Pronounced 'Leh-'Nérd 'Skin-'Nérd) [Expanded Edition],Lynyrd Skynyrd,1973,357933,0,"album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,southern rock",0.461,0.734,1,-9.379,1,0.0374,0.00079,0.00554,0.22,0.423,120.55
+Battle Symphony,One More Light,Linkin Park,2017-05-19,216281,62,"alternative metal,nu metal,post-grunge,rap metal",0.653,0.839,10,-5.077,1,0.0685,0.0369,0.0,0.068,0.669,149.034
+Lipstick on the Glass,Blue Weekend,Wolf Alice,2021-06-04,247560,43,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.355,0.623,7,-6.137,1,0.036,0.128,0.0592,0.107,0.19,93.745
+Who The Fuck Are Arctic Monkeys?,Who The F*** Are Arctic Monkeys?,Arctic Monkeys,2006-04-22,336826,52,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.348,0.896,4,-7.63,0,0.0397,0.000216,0.0173,0.168,0.572,132.577
+Space - Acoustic Version,Space (Acoustic Version),Biffy Clyro,2020-11-13,245426,0,"modern rock,rock,scottish rock",0.562,0.324,7,-7.883,1,0.0274,0.552,0.0,0.199,0.457,101.883
+Taro,An Awesome Wave,alt-J,2012-05-28,314986,0,"indie rock,modern rock",0.35,0.476,5,-10.653,1,0.034,0.765,0.0039,0.0785,0.293,171.938
+I Wanna Be Adored - Remastered,The Stone Roses,The Stone Roses,1989-05-02,292800,63,"alternative rock,britpop,dance rock,madchester,modern rock,rock",0.494,0.862,4,-9.158,0,0.0273,0.012,0.213,0.228,0.59,112.596
+Comfortably Numb - 2011 Remastered Version,The Wall (Remastered),Pink Floyd,1979-11-30,379213,66,"album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock",0.479,0.309,11,-14.751,0,0.0299,0.153,0.22,0.134,0.182,127.155
+American Teenager,Preacher’s Daughter,Ethel Cain,2022-05-12,258418,67,"art pop,indie pop,modern dream pop,pop",0.415,0.748,4,-5.008,1,0.0481,0.00305,0.0,0.0903,0.154,120.056
+Fill in the Blank,Teens Of Denial,Car Seat Headrest,2016-05-20,244506,53,"alternative rock,indie pop,indie rock,rock",0.339,0.829,9,-7.239,1,0.058,0.00737,1.26e-05,0.0596,0.5,162.794
+Dangerous Animals,Humbug,Arctic Monkeys,2009-08-20,210666,51,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.34,0.922,3,-5.189,1,0.18,0.0129,2.39e-06,0.226,0.532,125.363
+Moment,Sand,Balthazar,2021-02-26,207613,33,"belgian indie,belgian rock,dutch indie,ghent indie",0.888,0.635,6,-8.909,0,0.053,0.115,0.686,0.0426,0.844,125.044
+shameless,PAINLESS,Nilüfer Yanya,2022-03-04,274466,35,"art pop,indie rock,uk alternative pop",0.768,0.434,4,-8.548,1,0.0309,0.287,8.11e-05,0.115,0.602,120.017
+Wake Me up to Drive,Dragon New Warm Mountain I Believe In You,Big Thief,2022-02-11,223601,43,"art pop,brooklyn indie,indie pop,indie rock,small room",0.683,0.654,7,-11.64,1,0.0524,0.663,0.00803,0.116,0.682,131.263
+The Age Of The Understatement,The Age Of The Understatement,"The Last Shadow Puppets,Alex Turner,Miles Kane",2008-04-19,189560,51,"baroque pop,indie rock,modern rock,rock,sheffield indie,garage rock",0.383,0.868,11,-6.222,0,0.0847,0.00114,3.51e-06,0.353,0.546,147.267
+Star Treatment,Tranquility Base Hotel & Casino,Arctic Monkeys,2018-05-10,354640,50,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.581,0.767,7,-5.026,0,0.0527,0.243,0.00131,0.141,0.673,120.07
+Two Weeks,Veckatimest,Grizzly Bear,2009-05-24,246213,66,"alternative dance,art pop,baroque pop,brooklyn indie,chillwave,dream pop,indie rock,modern rock,new weird america,stomp and holler",0.526,0.723,5,-5.59,1,0.0294,0.3,0.00698,0.058,0.744,159.685
+"Call It Fate, Call It Karma",Comedown Machine,The Strokes,2013-03-25,204773,69,"alternative rock,garage rock,modern rock,permanent wave,rock",0.544,0.241,4,-14.779,0,0.03,0.983,0.774,0.101,0.359,109.437
+Green Light,Melodrama,Lorde,2017-06-16,234652,70,"art pop,metropopolis,nz pop,pop",0.594,0.721,2,-7.812,1,0.0957,0.0209,8.55e-06,0.0879,0.253,128.942
+Angels,Miss Universe,Nilüfer Yanya,2019-03-22,236470,22,"art pop,indie rock,uk alternative pop",0.763,0.521,8,-7.469,0,0.0318,0.0659,6.2e-06,0.109,0.803,115.853
+Rest My Chemistry,Our Love To Admire,Interpol,2007-07-10,301093,59,"alternative rock,indie rock,modern rock,rock",0.471,0.877,11,-5.576,0,0.0378,0.0193,0.0847,0.276,0.419,150.092
+Good Day,Everything Else Has Gone Wrong,Bombay Bicycle Club,2020-01-17,232080,42,"alternative dance,british indie rock,indie rock,indietronica,modern rock,new rave,rock,stomp and holler",0.816,0.501,1,-11.557,1,0.0574,0.198,0.0826,0.0948,0.153,121.979
+Paprika,Jubilee,Japanese Breakfast,2021-06-04,220316,0,"art pop,eugene indie,indie pop,philly indie",0.505,0.705,4,-5.477,1,0.0333,0.0209,0.0,0.304,0.413,120.073
+Lovers Rock,French Exit,TV Girl,2014-06-05,213920,3,indie pop,0.559,0.871,5,-5.338,0,0.0392,7.53e-06,0.00524,0.096,0.573,104.976
+Ribs,Pure Heroine (Extended),Lorde,2013-01-01,258969,0,"art pop,metropopolis,nz pop,pop",0.511,0.472,4,-9.277,1,0.091,0.534,0.614,0.11,0.0399,127.978
+Riverside,Philharmonics,Agnes Obel,2010-10-04,228546,60,chamber pop,0.441,0.188,9,-13.446,0,0.0408,0.985,0.000655,0.133,0.231,197.952
+Levitating,Future Nostalgia,Dua Lipa,2020-03-27,203807,80,"dance pop,pop,uk pop",0.695,0.884,6,-2.278,0,0.0753,0.0561,0.0,0.213,0.914,103.014
+Bored In Bristol,Blue Rev,Alvvays,2022-10-07,180240,32,"dreamo,indie pop,indie rock,shoegaze,toronto indie",0.407,0.857,8,-5.864,1,0.0714,0.116,0.77,0.492,0.528,153.332
+Brooklyn Baby,Ultraviolence (Deluxe),Lana Del Rey,2014-01-01,351640,79,"art pop,pop",0.404,0.664,1,-6.698,1,0.0407,0.542,0.00402,0.11,0.0949,107.747
+Motion Sickness,Stranger in the Alps,Phoebe Bridgers,2017-09-22,229760,0,"indie pop,la indie",0.652,0.545,1,-9.021,1,0.0358,0.774,0.0428,0.0847,0.626,107.019
+Small Crimes,Inside Out,Nilüfer Yanya,2021-09-29,158958,33,"art pop,indie rock,uk alternative pop",0.651,0.26,4,-10.661,0,0.0396,0.885,4.23e-05,0.126,0.223,135.143
+Do I Wanna Know?,AM,Arctic Monkeys,2013-09-09,272394,85,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03
+Don't Sit Down 'Cause I've Moved Your Chair,Suck It and See,Arctic Monkeys,2011-06-06,183506,58,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.434,0.912,9,-5.148,1,0.0451,0.0191,0.278,0.326,0.315,119.729
+Words,I Could Live In Hope,Low,1994-01-01,348800,44,"alternative rock,art pop,art rock,chamber psych,dream pop,duluth indie,indie rock,melancholia,slowcore",0.347,0.209,5,-15.268,1,0.0262,0.0931,0.617,0.103,0.229,80.242
+Can't Cool Me Down,Making a Door Less Open,Car Seat Headrest,2020-05-01,309333,0,"alternative rock,indie pop,indie rock,rock",0.767,0.465,8,-8.252,1,0.0346,0.0696,0.0449,0.109,0.661,134.993
+On The Radio,Lucifer On The Sofa,Spoon,2022-02-11,199876,37,"alternative dance,alternative rock,austindie,indie rock,modern rock,pop rock,rock",0.68,0.901,2,-4.475,0,0.0292,0.0613,0.000327,0.262,0.697,127.996
+Running Up That Hill (A Deal With God) - 2018 Remaster,Hounds of Love (2018 Remaster),Kate Bush,1985-09-16,300840,76,"art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter",0.625,0.533,10,-11.903,0,0.0596,0.659,0.00266,0.0546,0.139,108.296
+Pomeranian Spinster,Blue Rev,Alvvays,2022-10-07,204933,34,"dreamo,indie pop,indie rock,shoegaze,toronto indie",0.112,0.94,9,-3.443,1,0.0885,0.00326,1.62e-05,0.89,0.113,175.163
+Safari Song,From The Fires,Greta Van Fleet,2017-11-10,234600,65,"modern blues rock,modern hard rock,rock",0.362,0.928,2,-4.015,1,0.0503,0.164,1.61e-05,0.315,0.678,175.868
+Posing For Cars,Jubilee,Japanese Breakfast,2021-06-04,398783,48,"art pop,eugene indie,indie pop,philly indie",0.298,0.266,7,-9.113,1,0.0321,0.301,0.0504,0.134,0.129,115.954
+Glory And Gore,Pure Heroine,Lorde,2013-09-27,210737,61,"art pop,metropopolis,nz pop,pop",0.689,0.377,1,-8.761,1,0.0397,0.285,0.0,0.268,0.294,143.946
+Teletype,Teletype,Everything Everything,2022-03-09,220146,0,"alternative dance,experimental pop,indie rock,modern alternative rock,modern rock,new rave",0.817,0.633,0,-7.666,0,0.0458,0.0302,0.00125,0.0718,0.731,120.001
+Crawling Kingsnake,Delta Kream,The Black Keys,2021-05-14,368702,45,"alternative rock,blues rock,garage rock,modern blues rock,modern rock,punk blues,rock,roots rock",0.384,0.827,5,-5.727,0,0.035,0.0421,0.526,0.111,0.502,86.12
+Delicious Things,Blue Weekend,Wolf Alice,2021-06-04,304279,50,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.467,0.5,2,-5.608,1,0.0358,0.147,0.0247,0.284,0.279,121.209
+In Bloom,Nevermind (Deluxe Edition),Nirvana,1991-09-26,255080,0,"alternative rock,grunge,permanent wave,rock",0.436,0.876,10,-4.902,0,0.0647,3.33e-05,0.000104,0.205,0.512,157.044
+Aviation,Everything You've Come To Expect (Deluxe Edition),The Last Shadow Puppets,2016-12-02,223915,51,"baroque pop,indie rock,modern rock,rock,sheffield indie",0.356,0.915,0,-7.187,1,0.0862,7.89e-05,0.000857,0.177,0.487,172.978
+Madonna,Valentine,Snail Mail,2021-11-05,173000,40,"art pop,baltimore indie,bubblegrunge,indie pop,indie rock",0.711,0.629,10,-6.889,0,0.0308,0.0723,3.03e-06,0.196,0.614,123.009
+Not Strong Enough,the record,"boygenius,Julien Baker,Phoebe Bridgers,Lucy Dacus",2023-03-01,234933,66,"indie pop,pop,ambient folk,bubblegrunge,indie rock,la indie,art pop",0.502,0.8,1,-5.853,1,0.0402,0.00274,2.81e-06,0.091,0.309,127.001
+Time's Been Reckless,I'm Not Your Man (Deluxe),Marika Hackman,2017-06-02,234266,27,"ambient folk,indie folk",0.646,0.38,2,-7.638,1,0.0355,0.809,8.59e-05,0.187,0.42,117.966
+Viva La Vida,Viva La Vida or Death and All His Friends,Coldplay,2008-05-26,242373,83,"permanent wave,pop",0.486,0.617,5,-7.115,0,0.0287,0.0954,3.23e-06,0.109,0.417,138.015
+Headlock,Valentine,Snail Mail,2021-11-05,192853,40,"art pop,baltimore indie,bubblegrunge,indie pop,indie rock",0.576,0.689,9,-7.377,1,0.0262,0.0482,0.000701,0.338,0.545,115.073
+Angie,Goats Head Soup (Remastered 2009),The Rolling Stones,1973-08-31,272000,70,"british invasion,classic rock,rock",0.429,0.554,9,-6.128,0,0.0291,0.67,0.000152,0.105,0.407,136.302
+Hold No Grudge - Bonus Track,Solar Power (Deluxe Edition),Lorde,2021-11-05,268733,49,"art pop,metropopolis,nz pop,pop",0.661,0.336,7,-12.942,1,0.203,0.878,2.51e-05,0.0798,0.494,154.944
+Mirage,Belladonna of Sadness,Alexandra Savior,2017-04-07,205853,43,modern dream pop,0.524,0.794,4,-6.315,0,0.0492,0.232,2.77e-05,0.444,0.64,145.704
+company,PAINLESS,Nilüfer Yanya,2022-03-04,226560,27,"art pop,indie rock,uk alternative pop",0.627,0.286,2,-9.577,1,0.0328,0.639,0.0,0.107,0.369,131.0
+One Point Perspective,Tranquility Base Hotel & Casino,Arctic Monkeys,2018-05-10,208640,53,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.714,0.585,8,-4.57,1,0.0419,0.057,0.00444,0.144,0.842,77.104
+The Suburbs,The Suburbs,Arcade Fire,2010-08-02,315200,57,"baroque pop,canadian indie,indie rock,modern rock,new rave,permanent wave,quebec indie,rock",0.616,0.682,6,-6.148,0,0.0265,0.0578,0.0241,0.342,0.528,117.78
+Ghostride,Jinx,Crumb,2019-06-14,126120,0,"indie garage rock,neo-psychedelic",0.665,0.35,2,-9.426,1,0.028,0.508,0.83,0.109,0.467,87.061
+Since U Been Gone,Breakaway,Kelly Clarkson,2004,188960,69,"dance pop,pop,post-teen pop,talent show",0.662,0.739,9,-5.354,0,0.0322,0.00206,0.0603,0.113,0.382,130.999
+Under the Bridge,Blood Sugar Sex Magik (Deluxe Edition),Red Hot Chili Peppers,1991-09-24,264306,79,"alternative rock,funk metal,funk rock,permanent wave",0.559,0.345,4,-13.496,1,0.0459,0.0576,0.000105,0.141,0.458,84.581
+"Archie, Marry Me",Alvvays,Alvvays,2014-07-21,196560,53,"dreamo,indie pop,indie rock,shoegaze,toronto indie",0.267,0.828,7,-4.592,1,0.0746,0.00956,0.409,0.143,0.203,117.886
+Stevie,Radiate Like This,Warpaint,2022-05-06,243693,41,"alternative dance,art pop,chamber psych,chillwave,dream pop,electronica,indie rock,la indie,modern alternative rock,modern dream pop,modern rock,new rave",0.312,0.479,9,-8.485,1,0.0349,0.776,0.537,0.113,0.482,66.184
+Born To Die,Born To Die,Lana Del Rey,2012-01-30,286253,53,"art pop,pop",0.316,0.636,4,-6.631,0,0.0424,0.186,0.00016,0.198,0.4,171.564
+Tessellate,An Awesome Wave,alt-J,2012-05-28,182666,0,"indie rock,modern rock",0.683,0.613,2,-6.478,1,0.0433,0.378,0.0424,0.119,0.42,116.911
+Paul,Masterpiece,Big Thief,2016-05-27,183894,61,"art pop,brooklyn indie,indie pop,indie rock,small room",0.446,0.263,11,-11.541,1,0.0403,0.199,0.000305,0.109,0.168,123.696
+Yellow,Parachutes,Coldplay,2000-07-10,266773,86,"permanent wave,pop",0.429,0.661,11,-7.227,1,0.0281,0.00239,0.000121,0.234,0.285,173.372
+Shotgun,Staying at Tamara's,George Ezra,2018-03-23,201287,74,"folk-pop,neo-singer-songwriter",0.673,0.735,5,-4.733,1,0.0457,0.286,0.0,0.242,0.754,115.744
+Heart Of Glass - Special Mix,Best Of Blondie,Blondie,1981-10-31,275733,67,"candy pop,new wave,new wave pop,permanent wave,power pop,rock",0.694,0.577,4,-14.63,1,0.0308,0.015,0.00836,0.0853,0.845,114.478
+midnight sun,PAINLESS,Nilüfer Yanya,2022-03-04,282373,43,"art pop,indie rock,uk alternative pop",0.662,0.828,11,-8.748,0,0.0327,0.02,8.49e-05,0.264,0.402,143.916
+Bravado,The Love Club EP,Lorde,2013-03-08,221408,53,"art pop,metropopolis,nz pop,pop",0.603,0.529,7,-10.323,1,0.0482,0.572,0.0321,0.167,0.0394,87.967
+Team,Pure Heroine,Lorde,2013-09-27,193058,74,"art pop,metropopolis,nz pop,pop",0.69,0.578,6,-7.436,1,0.0929,0.167,0.0,0.305,0.416,99.961
+The Chain - 2004 Remaster,Rumours (Super Deluxe),Fleetwood Mac,1977-02-04,270213,78,"album rock,classic rock,rock,soft rock,yacht rock",0.545,0.67,9,-8.81,1,0.0496,0.009,0.000822,0.0451,0.481,151.553
+Cloud 9,Honeymoon,Beach Bunny,2020-02-14,147350,73,"bubblegrunge,chicago indie,indie pop,indie rock",0.637,0.929,4,-3.593,1,0.0491,0.00167,2.62e-05,0.344,0.902,80.974
+Savior Complex,Punisher,Phoebe Bridgers,2020-06-18,241640,67,"indie pop,la indie",0.377,0.44,4,-11.878,1,0.0325,0.931,0.0196,0.105,0.224,128.999
+Pharmacist,Blue Rev,Alvvays,2022-10-07,124130,43,"dreamo,indie pop,indie rock,shoegaze,toronto indie",0.206,0.793,2,-4.819,1,0.0584,0.0153,0.209,0.511,0.273,144.014
+R U Mine?,AM,Arctic Monkeys,2013-09-09,201726,80,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.288,0.758,6,-5.692,0,0.0371,0.00616,0.0,0.303,0.619,97.094
+Heavy Bend,Dragon New Warm Mountain I Believe In You,Big Thief,2022-02-11,96553,49,"art pop,brooklyn indie,indie pop,indie rock,small room",0.682,0.345,1,-9.403,1,0.074,0.863,3.34e-06,0.1,0.485,133.263
+Whisper,Harmonizer,Ty Segall,2021-08-03,218333,33,"alternative rock,australian garage punk,bay area indie,garage pop,garage rock,indie garage rock,indie rock,neo-psychedelic,noise pop,oc indie,punk blues",0.458,0.332,7,-7.272,1,0.038,0.0184,3.72e-06,0.101,0.547,133.206
+Four Out Of Five,Tranquility Base Hotel & Casino,Arctic Monkeys,2018-05-10,312346,56,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.601,0.863,0,-4.31,1,0.0685,0.0626,0.0,0.0717,0.676,130.189
+Fast Car,Tracy Chapman,Tracy Chapman,1988-04-05,296800,75,"folk,lilith,singer-songwriter,women's music",0.711,0.292,4,-15.523,0,0.037,0.313,0.0,0.131,0.194,103.951
+Promise Is a Pendulum,Dragon New Warm Mountain I Believe In You,Big Thief,2022-02-11,252600,43,"art pop,brooklyn indie,indie pop,indie rock,small room",0.473,0.16,5,-17.228,1,0.0391,0.958,3.82e-05,0.159,0.508,138.759
+There’d Better Be A Mirrorball,There’d Better Be A Mirrorball,Arctic Monkeys,2022-08-30,265798,63,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.513,0.369,3,-10.899,1,0.0307,0.634,0.0139,0.186,0.311,72.062
+I'll Call You Mine,if i could make it go quiet,girl in red,2021-04-30,201945,12,"bedroom pop,indie pop,norwegian indie,pop",0.612,0.727,4,-5.141,1,0.0492,0.173,5.61e-05,0.273,0.677,119.907
+Simple Man,Pronounced 'Leh-'Nérd 'Skin-'Nérd (Expanded Edition),Lynyrd Skynyrd,1973,357933,56,"album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,southern rock",0.461,0.734,1,-9.379,1,0.0374,0.00079,0.00554,0.22,0.423,120.55
+Down the Line,Somersault,Beach Fossils,2017-06-02,158474,64,"brooklyn indie,chillwave,dreamo,indie garage rock,indie rock,indie surf,popgaze,shoegaze",0.615,0.743,7,-6.569,1,0.041,0.237,0.00431,0.148,0.528,162.22
+Lonely Day,Hypnotize,System Of A Down,2005-11-22,167906,75,"alternative metal,nu metal,rap metal",0.47,0.796,8,-3.277,0,0.0336,0.362,1.1e-06,0.133,0.215,113.108
+The Right Stuff,The Right Stuff,Luxxe,2017-09-08,209800,3,phoenix indie,0.57,0.654,8,-6.066,1,0.0685,0.00135,2.56e-05,0.115,0.426,124.107
+Another's Arms,Ghost Stories,Coldplay,2014-05-19,234413,50,"permanent wave,pop",0.516,0.572,8,-9.037,1,0.0291,0.00715,0.254,0.139,0.351,160.023
+Knee Socks,AM,Arctic Monkeys,2013-09-09,257563,73,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.665,0.542,11,-8.323,0,0.033,0.123,0.00291,0.342,0.587,97.975
+we fell in love in october,we fell in love in october / forget her,girl in red,2018-11-21,184153,32,"bedroom pop,indie pop,norwegian indie,pop",0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959
+Pressure to Party,Crushing,Julia Jacklin,2019-02-22,182306,48,"art pop,indie folk,indie pop,indie rock,sydney indie",0.471,0.811,4,-3.956,1,0.0389,0.000125,4.08e-05,0.117,0.37,141.967
+Moaning Lisa Smile,My Love Is Cool (Deluxe Edition),Wolf Alice,2016-02-05,160747,48,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.47,0.806,2,-2.92,1,0.0505,0.000575,0.0564,0.0917,0.339,98.046
+Born To Die,Born To Die - The Paradise Edition,Lana Del Rey,2012-01-01,285400,71,"art pop,pop",0.428,0.626,4,-6.639,0,0.0339,0.222,8.22e-05,0.277,0.379,86.02
+Arabella,AM,Arctic Monkeys,2013-09-09,207356,75,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.579,0.558,2,-6.986,1,0.0895,0.0202,1.26e-06,0.212,0.506,179.949
+Could Have Been Me,Everybody Wants,The Struts,2016-03-04,187653,70,"glam rock,modern alternative rock,modern rock",0.541,0.907,4,-4.512,1,0.0642,0.0158,0.000185,0.34,0.434,80.029
+Come A Little Closer,Melophobia,Cage The Elephant,2013-10-04,229346,0,"modern rock,punk blues,rock",0.454,0.79,6,-1.774,0,0.032,0.0212,0.0,0.175,0.324,147.937
+Shark Smile - Edit,Shark Smile (Edit),Big Thief,2017-05-08,194760,58,"art pop,brooklyn indie,indie pop,indie rock,small room",0.688,0.737,6,-9.31,0,0.0672,0.0769,0.632,0.114,0.671,131.041
+Stop The World I Wanna Get Off With You,Why'd You Only Call Me When You're High?,Arctic Monkeys,2013-09-02,191040,68,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.661,0.73,6,-6.779,0,0.0574,0.0537,3.44e-05,0.14,0.53,95.027
+the dealer,PAINLESS,Nilüfer Yanya,2022-03-04,218640,42,"art pop,indie rock,uk alternative pop",0.743,0.826,6,-7.878,0,0.0416,0.328,3.07e-06,0.115,0.865,129.978
+I Bet You Look Good On The Dancefloor,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,2006-01-29,173680,71,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.535,0.948,6,-4.19,0,0.0356,0.00225,0.0,0.376,0.778,103.183
+Time - 2011 Remastered Version,The Dark Side Of The Moon (2011 Remastered Version),Pink Floyd,1973-03-01,422853,63,"album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock",0.355,0.447,9,-13.631,1,0.0894,0.453,0.00225,0.163,0.369,122.473
+Sprawl II (Mountains Beyond Mountains),The Suburbs,Arcade Fire,2010-08-02,325546,52,"baroque pop,canadian indie,indie rock,modern rock,new rave,permanent wave,quebec indie,rock",0.518,0.81,8,-6.445,1,0.029,0.016,0.0013,0.115,0.179,99.968
+Wild,Lucifer On The Sofa,Spoon,2022-02-11,193277,57,"alternative dance,alternative rock,austindie,indie rock,modern rock,pop rock,rock",0.647,0.701,4,-8.043,1,0.0375,0.0394,0.000142,0.0765,0.813,97.003
+Pretty Pimpin,b'lieve i'm goin down...,Kurt Vile,2015-09-25,298760,57,"indie rock,modern folk rock,neo-psychedelic,philly indie",0.566,0.663,8,-9.068,1,0.0278,0.0945,0.294,0.0915,0.762,91.108
+Oceans,Oceans - EP,Seafret,2015-01-21,216186,49,"folk-pop,pop",0.404,0.48,9,-8.906,0,0.0303,0.274,8.63e-06,0.132,0.2,129.162
+Your Dog,Clean,Soccer Mommy,2018-03-02,194009,53,"art pop,bubblegrunge,indie pop,indie rock,small room",0.652,0.669,11,-7.797,0,0.0262,0.122,0.00039,0.169,0.769,115.047
+Sculptures Of Anything Goes,The Car,Arctic Monkeys,2022-10-21,239151,65,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.591,0.309,4,-11.087,0,0.0287,0.704,0.0122,0.102,0.257,71.573
+Such Great Heights - Remastered,Give Up (Deluxe 10th Anniversary Edition),The Postal Service,2003-02-19,266506,63,"indie pop,indie rock,indietronica,modern rock,seattle indie",0.644,0.808,5,-7.268,1,0.0513,0.0467,0.187,0.0652,0.175,174.98
+Crash,Crash,Nilüfer Yanya,2020-10-20,226229,26,"art pop,indie rock,uk alternative pop",0.553,0.772,7,-7.859,1,0.0967,0.0519,4.43e-05,0.188,0.568,92.027
+Easy On Your Own?,Blue Rev,Alvvays,2022-10-07,174627,38,"dreamo,indie pop,indie rock,shoegaze,toronto indie",0.344,0.85,9,-5.044,1,0.0777,0.0603,0.000866,0.325,0.269,117.064
+Break My Heart,Future Nostalgia,Dua Lipa,2020-03-27,221820,75,"dance pop,pop,uk pop",0.73,0.729,4,-3.434,0,0.0884,0.167,1.39e-06,0.349,0.467,113.011
+Standing Next To Me,The Age Of The Understatement,"The Last Shadow Puppets,Alex Turner,Miles Kane",2008-04-19,142653,57,"baroque pop,indie rock,modern rock,rock,sheffield indie,garage rock",0.322,0.95,9,-6.287,0,0.101,0.00116,1.75e-06,0.263,0.574,182.778
+Bad Friday,Bad Friday,Everything Everything,2022-02-07,191960,0,"alternative dance,experimental pop,indie rock,modern alternative rock,modern rock,new rave",0.492,0.753,1,-6.896,0,0.0383,0.59,0.00229,0.395,0.838,86.428
+Tranquility Base Hotel & Casino,Tranquility Base Hotel & Casino,Arctic Monkeys,2018-05-10,211967,52,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.584,0.835,9,-4.326,0,0.0297,0.0411,0.0147,0.199,0.781,142.2
+Do Me a Favour,Favourite Worst Nightmare,Arctic Monkeys,2007-04-22,209253,65,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.469,0.738,11,-6.638,0,0.0619,0.00013,0.0577,0.078,0.624,180.15
+Maps,Fever To Tell (Deluxe Remastered),Yeah Yeah Yeahs,2003-04-29,219986,65,"alternative dance,alternative rock,dance-punk,garage rock,indie rock,modern rock,new rave,rock",0.502,0.941,7,-5.194,1,0.0716,0.000346,0.319,0.553,0.124,119.783
+Paradise,Mylo Xyloto,Coldplay,2011-10-24,278719,80,"permanent wave,pop",0.449,0.585,5,-6.761,1,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631
+Ana Ng,Lincoln,They Might Be Giants,1988,203000,42,"anti-folk,comic,geek rock,permanent wave,zolo",0.673,0.809,7,-3.521,1,0.0491,0.226,0.0,0.0603,0.877,132.935
+Heavenly,Cry,Cigarettes After Sex,2019-10-25,286773,68,"ambient pop,dream pop,el paso indie,pop,shoegaze",0.535,0.437,8,-9.187,1,0.0248,0.669,0.688,0.11,0.127,105.22
+While My Guitar Gently Weeps - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,285000,68,"beatlesque,british invasion,classic rock,merseybeat,psychedelic rock,rock",0.453,0.654,4,-8.855,0,0.0317,0.0205,0.00395,0.172,0.702,115.0
+Rocky Trail,Rocky Trail,Kings of Convenience,2021-04-30,210377,33,"bergen indie,melancholia,norwegian indie",0.549,0.418,6,-13.172,1,0.0423,0.788,0.123,0.112,0.692,171.98
+Animal,Party Favors,Sir Chloe,2020-10-23,160518,1,indie pop,0.495,0.457,7,-6.072,1,0.0306,0.407,1.25e-06,0.142,0.342,82.825
+The Man Who Sold The World,MTV Unplugged In New York,Nirvana,1994-11-01,261093,73,"alternative rock,grunge,permanent wave,rock",0.483,0.753,1,-8.937,0,0.0832,0.425,0.000142,0.257,0.42,115.102
+Is This It,Is This It,The Strokes,2001-07-30,151333,58,"alternative rock,garage rock,modern rock,permanent wave,rock",0.667,0.692,5,-8.361,1,0.0285,0.147,3.75e-05,0.349,0.846,96.022
+Piledriver waltz,Submarine - Original Songs From The Film By Alex Turner,Alex Turner,2011-03-14,204880,58,"modern rock,rock,sheffield indie",0.533,0.748,1,-7.861,1,0.0285,0.119,0.612,0.316,0.343,105.921
+Belinda Says,Blue Rev,Alvvays,2022-10-07,165445,36,"dreamo,indie pop,indie rock,shoegaze,toronto indie",0.348,0.747,4,-4.169,1,0.0576,0.0584,0.000316,0.0704,0.285,118.941
+Blood Like Wine,Applause,Balthazar,2011-08-08,303506,39,"belgian indie,belgian rock,dutch indie,ghent indie",0.768,0.777,2,-7.244,1,0.04,0.0879,0.0041,0.0887,0.846,136.009
+No Reason,Dragon New Warm Mountain I Believe In You,Big Thief,2022-02-11,227156,46,"art pop,brooklyn indie,indie pop,indie rock,small room",0.455,0.566,9,-7.001,1,0.0324,0.616,0.00237,0.308,0.513,79.056
+Re: Stacks,"For Emma, Forever Ago",Bon Iver,2008-02-19,401413,61,"eau claire indie,indie folk,melancholia",0.676,0.0812,2,-22.846,1,0.0398,0.979,0.416,0.118,0.314,125.075
+Fix You,X&Y,Coldplay,2005-06-07,295533,79,"permanent wave,pop",0.209,0.417,3,-8.74,1,0.0338,0.164,0.00196,0.113,0.124,138.178
+Dirty Mouth,Glow,Alice Phoebe Lou,2021-03-19,174909,53,"indie pop,south african alternative",0.517,0.546,11,-6.431,0,0.0732,0.13,0.00029,0.171,0.288,137.009
+Baby Luv,Inside Out,Nilüfer Yanya,2021-09-29,207971,32,"art pop,indie rock,uk alternative pop",0.828,0.447,1,-8.298,1,0.0359,0.464,1.13e-06,0.103,0.681,115.98
+Beautifully Unconventional,Visions Of A Life,Wolf Alice,2017-09-29,133160,46,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.745,0.837,4,-4.065,1,0.0308,0.0217,0.000969,0.21,0.662,104.493
+Maria,Greatest Hits,Blondie,2002-01-01,249426,65,"candy pop,new wave,new wave pop,permanent wave,power pop,rock",0.548,0.8,9,-6.926,1,0.0597,0.038,0.00255,0.0678,0.805,159.654
+Dragon Slayer,Time Skiffs,Animal Collective,2022-02-04,236294,33,"alternative dance,alternative rock,art pop,baltimore indie,chillwave,dream pop,experimental pop,freak folk,indie rock,modern rock,new rave,noise pop",0.494,0.637,11,-8.654,1,0.0343,0.0408,0.00201,0.167,0.592,147.037
+The World Retreats,The World Retreats,David O'Dowda,2015-08-17,222000,40,irish indie,0.517,0.256,11,-12.947,0,0.03,0.843,0.305,0.0821,0.162,129.878
+One,...And Justice For All,Metallica,1988-08-25,447440,71,"hard rock,metal,old school thrash,rock,thrash metal",0.437,0.695,7,-9.447,1,0.0617,0.00111,0.0857,0.124,0.413,102.178
+The 1975,Being Funny In A Foreign Language,The 1975,2022-10-14,250900,62,"modern alternative rock,modern rock,pop,rock",0.542,0.433,9,-10.47,1,0.0305,0.897,0.173,0.101,0.495,140.939
+Yeke Yeke,Akwaba Beach,Mory Kanté,1987-01-01,238253,46,"afropop,griot,guinean pop,mande pop,west african jazz,world",0.652,0.74,8,-13.469,1,0.0411,0.148,0.012,0.352,0.687,125.741
+exile (feat. Bon Iver),folklore,"Taylor Swift,Bon Iver",2020-07-24,285634,76,"pop,eau claire indie,indie folk,melancholia",0.298,0.38,6,-8.426,1,0.0287,0.778,5.62e-05,0.11,0.152,75.602
+Everyday I Love You Less and Less,Employment,Kaiser Chiefs,2005-03-07,217706,3,"alternative rock,modern rock,rock",0.481,0.956,1,-4.557,0,0.0394,0.00465,8.48e-06,0.285,0.57,160.015
+Time Escaping,Dragon New Warm Mountain I Believe In You,Big Thief,2022-02-11,228522,50,"art pop,brooklyn indie,indie pop,indie rock,small room",0.672,0.875,10,-6.022,0,0.135,0.751,0.000209,0.162,0.905,157.692
+zombie girl,songs,Adrianne Lenker,2020-10-23,164224,48,"art pop,chamber pop,indie folk,indie pop,indie rock,small room",0.538,0.103,8,-19.38,1,0.0462,0.914,5.3e-05,0.137,0.383,128.424
+Got My Mind Set On You - Remastered 2004,Cloud Nine,George Harrison,1987-11-02,234653,63,"album rock,beatlesque,classic rock,folk rock,mellow gold,rock,soft rock",0.767,0.854,4,-6.947,1,0.0426,0.465,2.03e-06,0.485,0.963,149.206
+Bunker,Thin Walls,Balthazar,2015-03-30,291280,55,"belgian indie,belgian rock,dutch indie,ghent indie",0.678,0.444,10,-8.889,0,0.0362,0.222,0.0213,0.165,0.237,106.977
+Otherside,Californication (Deluxe Edition),Red Hot Chili Peppers,1999-06-08,255373,77,"alternative rock,funk metal,funk rock,permanent wave",0.458,0.795,0,-3.265,1,0.0574,0.00316,0.000202,0.0756,0.513,123.229
+Somewhere Only We Know,Hopes And Fears,Keane,2004-05-10,237146,82,"neo mellow,piano rock,pop rock",0.448,0.665,9,-4.203,1,0.026,0.06,2.55e-05,0.0828,0.304,172.004
+Simple Man,(Pronounced 'Leh-'Nérd 'Skin-'Nérd) [Expanded Edition],Lynyrd Skynyrd,1973,357933,0,"album rock,blues rock,classic rock,country rock,hard rock,mellow gold,rock,southern rock",0.461,0.734,1,-9.379,1,0.0374,0.00079,0.00554,0.22,0.423,120.55
+Battle Symphony,One More Light,Linkin Park,2017-05-19,216281,62,"alternative metal,nu metal,post-grunge,rap metal",0.653,0.839,10,-5.077,1,0.0685,0.0369,0.0,0.068,0.669,149.034
+we fell in love in october,we fell in love in october / forget her,girl in red,2018-11-21,184153,32,"bedroom pop,indie pop,norwegian indie,pop",0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959
+Moaning Lisa Smile,My Love Is Cool (Deluxe Edition),Wolf Alice,2016-02-05,160747,48,"indie pop,indie rock,modern alternative rock,modern rock,rock",0.47,0.806,2,-2.92,1,0.0505,0.000575,0.0564,0.0917,0.339,98.046
+zombie girl,songs,Adrianne Lenker,2020-10-23,164224,48,"art pop,chamber pop,indie folk,indie pop,indie rock,small room",0.538,0.103,8,-19.38,1,0.0462,0.914,5.3e-05,0.137,0.383,128.424
+Otherside,Californication (Deluxe Edition),Red Hot Chili Peppers,1999-06-08,255373,77,"alternative rock,funk metal,funk rock,permanent wave",0.458,0.795,0,-3.265,1,0.0574,0.00316,0.000202,0.0756,0.513,123.229
+Somewhere Only We Know,Hopes And Fears,Keane,2004-05-10,237146,82,"neo mellow,piano rock,pop rock",0.448,0.665,9,-4.203,1,0.026,0.06,2.55e-05,0.0828,0.304,172.004
+Sign of the Times,Harry Styles,Harry Styles,2017-05-12,340706,81,pop,0.516,0.595,5,-4.63,1,0.0313,0.0275,0.0,0.109,0.222,119.972
+Head In The Clouds,Expert In A Dying Field,The Beths,2022-09-16,241480,27,"auckland indie,bubblegrunge,indie pop,indie punk,indie rock,kiwi rock,modern power pop,nz indie",0.327,0.736,2,-9.406,1,0.0446,6.52e-05,9.43e-06,0.0578,0.304,166.713
+"Eat, Sleep, Wake (Nothing But You)",Everything Else Has Gone Wrong,Bombay Bicycle Club,2020-01-17,219893,58,"alternative dance,british indie rock,indie rock,indietronica,modern rock,new rave,rock,stomp and holler",0.596,0.807,1,-7.893,0,0.028,0.000132,0.264,0.312,0.288,117.016
+Too Late To Say Goodbye,Tell Me I'm Pretty,Cage The Elephant,2015-12-18,252786,56,"modern rock,punk blues,rock",0.482,0.55,4,-7.098,0,0.0356,0.135,0.0,0.294,0.105,67.559
+Passing Afternoon,Our Endless Numbered Days,Iron & Wine,2004-03-23,241213,35,"acoustic pop,chamber pop,indie folk,indie pop,neo mellow,stomp and holler",0.701,0.318,9,-13.368,1,0.0348,0.535,0.281,0.208,0.58,102.047
+Close Your Eyes,Sweat,The All-American Rejects,2017-07-07,267935,36,"modern rock,neo mellow,pop punk,pop rock",0.465,0.634,1,-7.665,1,0.0503,0.0667,0.00169,0.0916,0.0849,91.854
+Homemade Dynamite,Melodrama,Lorde,2017-06-16,189796,59,"art pop,metropopolis,nz pop,pop",0.771,0.431,10,-5.423,1,0.0577,0.287,2.75e-06,0.0934,0.268,107.047
+The Adults Are Talking,The New Abnormal,The Strokes,2020-04-10,309053,76,"alternative rock,garage rock,modern rock,permanent wave,rock",0.593,0.749,5,-5.67,1,0.0475,0.0113,0.106,0.314,0.649,164.959
+Kyoto,Punisher,Phoebe Bridgers,2020-06-18,184524,69,"indie pop,la indie",0.6,0.749,11,-6.889,1,0.0419,0.0467,0.295,0.0915,0.485,131.024
+Philadelphia,The Dream,alt-J,2022-02-11,218093,48,"indie rock,modern rock",0.496,0.424,9,-9.551,0,0.0393,0.129,0.0138,0.284,0.177,97.429
+Astronaut,"Don't You Worry, Honey",Sir Sly,2017-06-30,224382,53,"electropop,indie poptimism,indie rock,indietronica,la indie,modern alternative rock,modern rock,vapor soul",0.63,0.589,7,-8.11,1,0.0275,0.0752,0.552,0.32,0.314,112.013
+Expert In A Dying Field,Expert In A Dying Field,The Beths,2022-09-16,251213,38,"auckland indie,bubblegrunge,indie pop,indie punk,indie rock,kiwi rock,modern power pop,nz indie",0.459,0.426,1,-10.135,1,0.0329,0.112,0.000279,0.0985,0.394,137.45
+chase me,PAINLESS,Nilüfer Yanya,2022-03-04,210373,31,"art pop,indie rock,uk alternative pop",0.867,0.832,11,-8.383,0,0.0453,0.113,0.0,0.0745,0.979,119.993
+Obstacle 1,Turn on the Bright Lights,Interpol,2002-08-20,251333,0,"alternative rock,indie rock,modern rock,rock",0.382,0.941,5,-4.906,1,0.0622,4.95e-05,0.52,0.0708,0.371,120.53
+Devil Like Me,Seven + Mary,Rainbow Kitten Surprise,2013-11-19,188280,62,modern rock,0.679,0.63,2,-6.83,1,0.158,0.758,7.06e-05,0.111,0.558,123.082
+Chinese Satellite,Punisher,Phoebe Bridgers,2020-06-18,217070,0,"indie pop,la indie",0.302,0.444,10,-9.948,1,0.0453,0.754,0.0244,0.152,0.379,120.026
+Hard Feelings/Loveless,Melodrama,Lorde,2017-06-16,367391,59,"art pop,metropopolis,nz pop,pop",0.487,0.445,1,-10.959,0,0.113,0.0328,0.0104,0.0778,0.18,97.031
+Starlight,Black Holes and Revelations,Muse,2006-06-19,240213,71,"modern rock,permanent wave,rock",0.55,0.874,4,-4.046,1,0.0321,0.000436,1.02e-05,0.206,0.318,121.61
+Karma Police,OK Computer,Radiohead,1997-05-28,264066,0,"alternative rock,art rock,melancholia,oxford indie,permanent wave,rock",0.36,0.505,7,-9.129,1,0.026,0.0626,9.22e-05,0.172,0.317,74.807
+The Hellcat Spangled Shalalala,Suck It and See,Arctic Monkeys,2011-06-06,180373,50,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.449,0.872,11,-4.992,1,0.0507,0.000793,0.00062,0.0642,0.788,130.22
+New Estate,New Estate,Giant Rooks,2016-12-02,237360,0,,0.528,0.743,6,-6.117,1,0.0306,0.032,0.0,0.201,0.561,155.957
+Myth,Bloom,Beach House,2012-05-14,258653,56,"baltimore indie,dream pop,dreamo,modern dream pop",0.445,0.704,3,-6.257,1,0.0292,0.0336,0.116,0.0828,0.409,141.954
+Pleaser,Pleaser,Wallows,2017-04-12,187895,66,"indie pop,modern rock,pop",0.497,0.914,9,-4.308,1,0.0455,0.126,1.98e-05,0.274,0.385,148.893
+One For The Road,AM,Arctic Monkeys,2013-09-09,206051,67,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.415,0.668,0,-6.849,1,0.036,0.212,0.0615,0.27,0.842,180.048
+Weird Fishes/ Arpeggi,In Rainbows,Radiohead,2007-12-28,318186,70,"alternative rock,art rock,melancholia,oxford indie,permanent wave,rock",0.531,0.61,11,-8.025,0,0.0387,0.772,0.756,0.0908,0.199,152.958
+Swim and Sleep (Like a Shark),II,Unknown Mortal Orchestra,2013-02-05,165226,56,"chillwave,indie rock,kiwi rock,neo-psychedelic,portland hip hop,psychedelic pop",0.766,0.806,8,-10.011,1,0.0403,0.124,0.171,0.119,0.76,123.51
+Hey,Doolittle,Pixies,1989-04-17,210906,66,"alternative rock,boston rock,modern rock,permanent wave,rock",0.59,0.372,7,-12.37,1,0.0318,0.00105,0.00929,0.316,0.306,99.887
+Disorder - 2007 Remaster,Unknown Pleasures (Collector's Edition),Joy Division,1979-06-01,209039,67,"alternative rock,art rock,madchester,new wave,post-punk,rock,uk post-punk",0.32,0.798,10,-7.078,0,0.124,0.00033,0.692,0.176,0.74,84.696
+What Once Was,Songs of Her's,Her's,2017-05-12,255067,72,"indie garage rock,indie pop,liverpool indie",0.526,0.877,3,-4.369,0,0.033,0.172,0.0108,0.223,0.436,145.568
+Ode to a Conversation Stuck in Your Throat,Ode to a Conversation Stuck in Your Throat,Del Water Gap,2020-05-01,198927,34,"deep new americana,indie pop,modern rock",0.577,0.821,1,-6.069,0,0.0681,0.0458,1.02e-05,0.235,0.619,87.513
+Heat Wave,Lush,Snail Mail,2018-06-08,308346,50,"art pop,baltimore indie,bubblegrunge,indie pop,indie rock",0.503,0.681,9,-5.701,1,0.0332,0.000214,0.00159,0.147,0.191,123.891
+Why Are Sundays So Depressing,The New Abnormal,The Strokes,2020-04-10,275666,64,"alternative rock,garage rock,modern rock,permanent wave,rock",0.579,0.714,0,-4.455,1,0.0347,0.00258,0.0269,0.111,0.299,109.971
+Cherry-coloured Funk,Heaven or Las Vegas,Cocteau Twins,1990,192466,64,"alternative rock,art pop,art rock,dream pop,ethereal wave,melancholia,new wave,rock,scottish indie,shoegaze",0.49,0.652,2,-5.813,1,0.0274,0.00196,6.24e-05,0.0991,0.339,90.085
+When You Die,Little Dark Age,MGMT,2018-02-09,263880,63,"alternative dance,indietronica,modern rock,rock",0.645,0.938,11,-4.557,0,0.0391,0.0946,0.0226,0.159,0.495,140.886
+Martin,Making a Door Less Open,Car Seat Headrest,2020-05-01,207750,41,"alternative rock,indie pop,indie rock,rock",0.647,0.743,4,-9.204,1,0.0539,0.0138,0.0359,0.534,0.549,160.169
+The Archer,The Archer,Alexandra Savior,2020-01-10,145280,55,modern dream pop,0.514,0.373,0,-7.242,1,0.0254,0.679,1.84e-05,0.292,0.229,83.27
+Harness Your Hopes - B-side,Brighten the Corners: Nicene Creedence Ed.,Pavement,2008-12-09,206946,64,"alternative rock,anti-folk,art rock,dream pop,indie rock,lo-fi,modern rock,pop rock,rock",0.604,0.573,2,-7.804,1,0.037,0.289,0.0406,0.133,0.581,107.862
+Spitting Off the Edge of the World,Cool It Down,"Yeah Yeah Yeahs,Perfume Genius",2022-09-30,257746,63,"alternative dance,alternative rock,dance-punk,garage rock,indie rock,modern rock,new rave,rock,art pop,chamber pop,chamber psych,chillwave,electropop,experimental pop,indie pop,seattle indie",0.413,0.722,2,-5.875,1,0.036,0.00342,3.13e-06,0.0626,0.0803,109.948
+Humongous,What Do You Think About the Car?,Declan McKenna,2017-07-21,321680,47,"indie pop,modern alternative rock,modern rock,rock",0.35,0.806,9,-7.356,0,0.086,6.1e-05,0.000436,0.152,0.486,115.068
+Concorde,Ants From Up There,"Black Country, New Road",2022-02-04,363773,56,"crank wave,indie rock,london indie,uk post-punk revival",0.565,0.284,9,-11.881,1,0.0286,0.023,0.098,0.113,0.314,131.309
+Crying All the Time,The Archer,Alexandra Savior,2020-01-10,210613,54,modern dream pop,0.164,0.796,1,-5.727,0,0.0458,0.327,0.782,0.118,0.46,150.234
+Good Day,Everything Else Has Gone Wrong,Bombay Bicycle Club,2020-01-17,232080,42,"alternative dance,british indie rock,indie rock,indietronica,modern rock,new rave,rock,stomp and holler",0.816,0.501,1,-11.557,1,0.0574,0.198,0.0826,0.0948,0.153,121.979
+Can't Cool Me Down,Making a Door Less Open,Car Seat Headrest,2020-05-01,309333,44,"alternative rock,indie pop,indie rock,rock",0.766,0.465,8,-8.252,1,0.0346,0.0686,0.0445,0.109,0.662,134.992
+The Place Where He Inserted the Blade,Ants From Up There,"Black Country, New Road",2022-02-04,433360,57,"crank wave,indie rock,london indie,uk post-punk revival",0.376,0.451,11,-8.276,1,0.0327,0.402,4.13e-05,0.128,0.164,123.344
+Posing For Cars,Jubilee,Japanese Breakfast,2021-06-04,398783,48,"art pop,eugene indie,indie pop,philly indie",0.298,0.266,7,-9.113,1,0.0321,0.301,0.0504,0.134,0.129,115.954
+I Know It's Over - 2011 Remaster,The Queen Is Dead,The Smiths,1986-06-16,349186,63,"madchester,new wave,permanent wave,rock,uk post-punk",0.407,0.424,0,-10.583,1,0.0318,0.0847,0.0,0.234,0.404,113.311
+Heaven or Las Vegas,Heaven or Las Vegas,Cocteau Twins,1990,298400,61,"alternative rock,art pop,art rock,dream pop,ethereal wave,melancholia,new wave,rock,scottish indie,shoegaze",0.202,0.804,7,-5.465,1,0.0383,6.97e-05,0.00775,0.081,0.418,179.911
+"New York, I Love You but You're Bringing Me Down",Sound of Silver,LCD Soundsystem,2007-03-12,335480,50,"alternative dance,alternative rock,dance rock,dance-punk,electronic rock,electronica,indie rock,indietronica,modern rock,new rave,rock",0.39,0.37,7,-8.288,0,0.0457,0.474,0.00013,0.115,0.0909,176.526
+Four Out Of Five,Tranquility Base Hotel & Casino,Arctic Monkeys,2018-05-10,312346,56,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.601,0.863,0,-4.31,1,0.0685,0.0626,0.0,0.0717,0.676,130.189
+Savior Complex,Punisher,Phoebe Bridgers,2020-06-18,241640,67,"indie pop,la indie",0.377,0.44,4,-11.878,1,0.0325,0.931,0.0196,0.105,0.224,128.999
+Valentine,Valentine,Snail Mail,2021-11-05,196173,47,"art pop,baltimore indie,bubblegrunge,indie pop,indie rock",0.488,0.623,0,-4.873,1,0.0317,0.000713,0.0,0.131,0.171,129.874
+I Want You To Love Me,Fetch The Bolt Cutters,Fiona Apple,2020-04-17,237713,54,"art pop,chamber pop,dark pop,indie pop,lilith,permanent wave,piano rock,singer-songwriter",0.528,0.504,9,-8.821,0,0.09,0.559,0.0414,0.0936,0.712,141.369
+Brooklyn Bridge To Chorus,The New Abnormal,The Strokes,2020-04-10,235946,61,"alternative rock,garage rock,modern rock,permanent wave,rock",0.628,0.571,0,-3.897,1,0.0628,0.00602,9.21e-05,0.0833,0.467,119.899
+"Athens, France",For the first time,"Black Country, New Road",2021-02-05,382600,46,"crank wave,indie rock,london indie,uk post-punk revival",0.371,0.441,7,-10.936,1,0.0305,0.00627,0.617,0.102,0.0966,96.698
+Say Can You Hear (Garage Session),Forever Live Sessions,Men I Trust,2020-07-10,218426,39,indie pop,0.722,0.335,7,-12.618,0,0.0371,0.464,0.675,0.115,0.549,143.493
+Do Not Wait,Nothing Happens,Wallows,2019-03-22,390880,49,"indie pop,modern rock,pop",0.23,0.473,4,-9.583,1,0.0303,0.0305,0.0133,0.161,0.0715,99.832
+Wild Time,Titanic Rising,Weyes Blood,2019-04-05,369265,47,"art pop,experimental folk,indie pop",0.382,0.423,7,-9.929,1,0.0269,0.551,0.0065,0.21,0.233,141.359
+Leif Erikson,Turn On The Bright Lights,Interpol,2002-08-20,240093,50,"alternative rock,indie rock,modern rock,rock",0.525,0.739,7,-7.521,1,0.0246,0.0554,0.584,0.0872,0.651,108.568
+Oceanic Feeling,Solar Power,Lorde,2021-08-20,399583,47,"art pop,metropopolis,nz pop,pop",0.473,0.359,0,-13.094,1,0.0431,0.85,0.00115,0.12,0.185,113.364
+Supercut,Melodrama,Lorde,2017-06-16,277506,67,"art pop,metropopolis,nz pop,pop",0.562,0.437,0,-10.229,1,0.052,0.219,2.18e-05,0.0806,0.15,124.852
